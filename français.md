@@ -21,7 +21,6 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
   - [Amélioration du processus de réévaluation de l’ARLA](#amélioration-du-processus-de-réévaluation-de-larla)
   - [Gestion responsable de l’agriculture protégée](#gestion-responsable-de-lagriculture-protégée)
 - Autres sujets
-  - [Pénurie de BIT](#pénurie-de-benzisothiazolinone-bit)
   - [Politique sur l’acceptation par le marché de la CCG](#politique-sur-lacceptation-par-le-marché-du-conseil-des-grains-du-canada-ccg)
   - [Soutien de CropLife Canada à la CAAR](#soutien-de-croplife-canada-à-lassociation-canadienne-des-détaillants-agricoles-caar)
   - [Défendre les innovations de l’agriculture moderne](#défendre-les-innovations-de-lagriculture-moderne)
@@ -196,16 +195,6 @@ Mai 2018     Chaque semestre
 - Il est entendu qu’une politique de non-expédition à l’échelle de l’industrie serait la façon de s’assurer de la conformité. 
 - Bien que CLC aide à la mise en place du programme, son fonctionnement devrait être payé par les groupes de producteurs. 
 
-
-## Pénurie de benzisothiazolinone (BIT)
-
-_Des modifications aux préparations chimiques homologuées sont nécessaires pour remédier à une interruption critique de l’approvisionnement mondial en BIT, un agent de conservation microbiocide largement utilisé. L’ARLA a pallié une pénurie de BIT à court terme à la fin de 2018 en permettant d’ajouter aux préparations un nombre limité d’agents de conservation contenant du BIT ou non. Cependant, cette approche ne résoudra pas les graves problèmes d’approvisionnement rencontrés actuellement. S’ils ne sont pas résolus, la disponibilité des produits antiparasitaires pour la saison de croissance canadienne de 2020 pourrait être compromise._
-
-Mai 2019     Chaque trimestre
-
-- Qu’en guise de mesure provisoire pour remédier à la pénurie de BIT, l’ARLA fournisse une liste préapprouvée de produits de remplacement non-BIT pouvant être ajoutés aux préparations.
-- Que l’autocertification et les avis sur les lots comportant des produits de remplacement non-BIT soient acceptés pour remédier à la pénurie de BIT.
-- Que l’ARLA accélère l’approbation des demandes de catégorie C pour les modifications de préparations afin d’inclure les produits de remplacement non-BIT.
 
 
 
