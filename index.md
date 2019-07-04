@@ -22,7 +22,6 @@ The date that appears after the issue title indicates when the policy, motion or
   - [PMRA re-evaluation process improvement](#pmra-re-evaluation-process-improvement)
   - [Protected agriculture stewardship](#protected-agriculture-stewardship)
 - Other Issues
-  - [BIT disruption](#bit-disruption)
   - [CGC Market Acceptance Policy](#cgc-market-acceptance-policy)
   - [CropLife Canada support of CAAR](#croplife-canada-support-of-caar)
   - [Defending modern agriculture innovations](#defending-modern-agriculture-innovations)
@@ -176,16 +175,6 @@ September 12, 2018 Staff Directive
 - Proactively proceed with this initiative even if PMRA does not see this subsector as a major concern as it addresses the risk of additional problems being identified through national water monitoring in the future.
 - It is understood that an industry-wide no-ship policy would be how compliance would be assured.
 - While CLC is helping to set up the program, delivery should be paid for by the grower groups.
-
-## BIT disruption
-
-_Changes to registered chemistry formulations are required to address a critical global supply interruption of BIT, a widely used micro-biocide preservative. The PMRA addressed a shorter-term BIT shortage in late 2018 by allowing a limited number of different BIT- and non-BIT-containing preservatives to be added to formulations. However, this approach will not address the severe supply disruption now being faced. If not resolved, the availability of pest control products for the 2020 Canadian growing season may be jeopardized._
-
-May 2019     Quarterly
-
-- That as an interim measure to address the BIT shortage, PMRA provide a pre-approved list of non-bit alternatives that may be added to formulations.
-- That self-certification and batched notification of non-bit alternatives be accepted to address the BIT shortage.
-- That PMRA expedite approval of Category C submissions for formulation changes to include non-bit alternatives.
 
 ## CGC Market Acceptance Policy
 
