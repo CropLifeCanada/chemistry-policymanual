@@ -24,7 +24,7 @@ The date that appears after the issue title indicates when the policy, motion or
 - Other Issues
   - [CGC Market Acceptance Policy](#cgc-market-acceptance-policy)
   - [CropLife Canada support of CAAR](#croplife-canada-support-of-caar)
-  - [Defending modern agriculture innovations](#defending-modern-agriculture-innovations)
+  - [Defending modern pest control innovations](#defending-modern-pest-control-innovations)
   - [Drones: Label expansion](#drones-label-expansion)
   - [Manage Resistance Now](#manage-resistance-now)
   - [Plant Science Technologies: Helping Canada Grow](#plant-science-technologies-helping-canada-grow)
@@ -35,7 +35,7 @@ The date that appears after the issue title indicates when the policy, motion or
 
 ## Chemistry Committee mandate and organization
 
-Mandate: Based on CropLife Canada's priorities, to provide strategic oversight, direction and alignment to the activities of the Chemistry Science and Regulatory Committee (CSRC), the Joint Urban/Non-Ag Committee (CropLife Canada/Fertilizer Canada) and the Resistance Management Committee with the support of government affairs and communications, to achieve the desired outcomes for issues and interests identified by the Chemistry Committee for pest control products used in agriculture, urban/non-agricultural and public health settings.
+Mandate: Based on the goals identified in CropLife Canada's strategic plan, the Chemistry Committee provides strategic oversight, direction and alignment to the activities of the Chemistry Science and Regulatory Committee (CSRC), the Joint Urban/Non-Ag Committee (CropLife Canada/Fertilizer Canada) and the Resistance Management Committee in collaboration with government affairs and communications, to achieve the desired outcomes for issues and member interests concerning pest control products used in agriculture, urban/non-agricultural and public health settings.
 
 Chair: [Craig Brekkas](mailto:Craig%20Brekkas%20%3ccraig.brekkas@arysta.com%3e?subject=Chemistry%20Committee) 1-720-550-6329 (mobile 1-720-625-2997)
 
@@ -45,24 +45,27 @@ Committee Support: [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstall
 
 ## 2019 Meeting schedule
 
-- January 22, 2019 - Calgary
-- April 16, 2019 – teleconference/webinar
-- May 1, 2019 - Spring Dialogue Days, Ottawa
-- September 17, 2019 – Edmonton, Alberta
-- December 5, 2019 - GrowCanada, Calgary
+- December 5, 2019 – GrowCanada Conference, Calgary 
+- January 28, 2020 – Calgary
+- March 10, 2020 – Teleconference/webinar
+- May 26, 2020 – Spring Dialogue Days, Ottawa
+- July 14, 2020 – Teleconference/webinar
+- September 3, 2020 – Guelph
+- December 3, 2020 – GrowCanada Conference, Ottawa
+
 
 ## Fungicides: Pollinator health (see also Pollinators and neonics)
 
-May 2019, Quarterly
+September 2019, Quarterly
 
-- That we work collaboratively with bee keepers in British Columbia to better understand the causes of poor colony health after pollination of blueberry crops.
+- That we work collaboratively with the beekeeping and agricultural communities to better understand the causes of poor colony health after pollination of blueberry crops.
 - That bee health is a complex issue impacted by a number of factors and the plant science industry is committed to doing its part to protect pollinators.
 - That the plant science industry supports sound, science-based decision making around the use of pesticides as this relates to pollinator health.
 
 
 ## Fungicides: Value of co-formulated products
 
-May 2019     Quarterly
+September 2019     Quarterly
 
 - That co-formulated fungicides effectively and efficiently deliver broader spectrum pest control and help ensure that pests that may be resistant to a mode of action are effectively controlled.
 - That co-formulated fungicides make it easier for growers to mix and ensure proper rates by providing uniform, stable products in a single container.
@@ -74,7 +77,7 @@ May 2019      Annual
 - That we engage with governments and partners to create conditions that allow China to promulgate transparent, predictable, risk-based import tolerance regulations based on international standards and guidelines, recognizing that MRLs facilitate trade by verifying that pesticides have been applied according to registered label specifications and that they are not food safety standards.
 - That we engage with governments and our partners to contain Europe's hazard-based approaches and defend risk-based decisions that allow farmers to continue to access modern tools and technologies that keep them competitive domestically and globally.
 
-September 12, 2018 Staff Directive
+September 12, 2018 Staff Directive, validated September 17, 2019
 
 China Strategy
 
@@ -82,62 +85,59 @@ China Strategy
 
 European Union
 - The current level of effort is appropriate with participation in the CLI MRL and Trade Task Force and the CLA Trade Team.
-- Consideration should be given to developing an industry strategy to deal with loss of AIs from EU market.
 
 ## National surface water monitoring for pesticides
 
-May 2019     Semi-annual
+September 2019     Semi-annual
 
-_In response to the absence of a coherent, Canada-wide network of pesticide water monitoring studies, PMRA has taken overly conservative approaches in their risk assessments for post-market re-evaluations, resulting in cancelation of uses that would otherwise represent acceptable risks._
+- That we are committed to the safeguarding of human health and the environment and proper stewardship of our products.
+- That robust, clear and transparent national protocols be co-developed with stakeholders so PMRA has the ability to confidently refine post-market risk assessments when needed and to document the effectiveness of industry and grower-led risk mitigation initiatives.
 
-- That robust, clear and transparent national protocols be explored as a means to provide PMRA with the ability to confidently refine post-market risk assessments when needed and to document the effectiveness of industry and grower-led risk mitigation initiatives.
+September 17, 2019  Staff Directive
 
-January 22, 2019  Staff Directive
-
-Gather more information about water monitoring in Canada, in other jurisdictions and from other actors active in this subject area, including academics and the pharmaceutical industry to inform further development of CLC's policy positions.
-
-November 29, 2018    Staff Directive
-
-Take a leadership role in recommending a national water monitoring program (including vision, objectives, responsible government department, funding models, etc.).
-
-September 12, 2018   Staff Directive
-
-Actively participate in development with a view to ensuring having a say. While CLC members may consider contributing financially to ensure we can credibly continue to direct its activities, CLC members should not be the principle funders of such an initiative.
+That CSRC recommend options for actions to advance members interests that may include a near-final pilot-project proposal with milestones and funding details for Chemistry Committee consideration at its January 28, 2020, meeting in Calgary.
 
 ## Ontario pesticide reform – neonicotinoids and agriculture
 
-May 2019     Quarterly
+September 2019     Quarterly
 
+- That industry-led mitigation of identified environmental risks are recognized by the PRMA as effective. 
 - That the Government of Ontario immediately remove the regulation that restrict the use of neonicotinoid seed under the _Ontario Pesticides Act_ in order to allow Ontario farmers to have the same access to these safe crop protection innovations as farmers in other jurisdictions.
 - That the current duplicative provincial pesticide classification system be replaced with one that recognizes and makes use of the work already being done federally in this regard by the PMRA.
 
 
 ## Ontario pesticide reform – Ontario Pesticide Advisory Committee (OPAC)
 
-May 2019     Quarterly
+September 2019     Quarterly
 
 - That OPAC should be wound up and disbanded as it is the only provincial regulatory body of its kind in Canada and clearly duplicates work already being performed by PMRA.
 
 ## Ontario pesticide reform - urban
 
-May 2019     Quarterly
+September 2019     Quarterly
 
 - That the Government of Ontario lift the so-called "cosmetic" pesticide ban to instead return to a level playing field for Ontario homeowners and small business people.
+- That the current “bylaw inoperative” clause (7.1(5) remain in effect. 
 - That we do not support the creation of a new class of pesticides granting an application monopoly to licensed applicators to the detriment of homeowners.
 
 ## PCPA legislative review 2020
 
-May 2019     Quarterly
+September 2019     Quarterly
 
+- That the PCPA remains fit for purpose and should not be opened for review in 2020.
 - That pre- and post-market reviews include stronger consideration of social and economic value.
 - That guidance be provided to clarify acceptable risk and unacceptable risk to assure transparency.
-- That Europe's interpretation of the precautionary principle continues to be rejected and has no place in the Act – Canada's risk-based approach is appropriate and already consistent with regulators' "duty to prevent harm";
-- That evaluations be completed in a timely fashion but that legislated timeframes are not appropriate; and
-- That the Act's provisions for greater transparency and openness continue to be appropriately balanced with the protection of confidential business information in order to drive continued innovation.
+- That Canada’s current 0.1ppm import tolerance MRL default be retained.
+- That if the Act is opened, CLC continue to advocate for the above and:
+  - That Europe's interpretation of the precautionary principle continues to be rejected and has no place in the Act – Canada's risk-based approach is appropriate and already consistent with regulators' "duty to prevent harm";
+  - That evaluations be completed in a transparent, timely fashion but that the establishment of legislated timeframes are not appropriate; and
+  - That the Act's provisions for greater transparency and openness continue to be appropriately balanced with the protection of confidential business information in order to drive continued innovation; and
+  - That Codex MRLs be adopted when they exist. 
+
 
 
 ## PMRA re-evaluation – cost recovery
-September 12, 2018     Staff Directive
+September 12, 2018     Staff Directive validated September 17, 2019
 
 - The following conditions need to be met before a conversation about cost re-recovery would be appropriate:
   - Data protection issues (PPIP) resolved to industry satisfaction;
@@ -158,7 +158,7 @@ _The changes PMRA made to its re-evaluation process in 2016 have resulted in inc
 - That public consultations be sought on the draft risk assessment separately from the proposed decision that includes proposed risk mitigation measures.
 - That the Government of Canada formally acknowledge the economic role PMRA plays in facilitating or inhibiting grower access to innovative technologies by including this in its mandate and by allocating the appropriate resources for this work.
 
-September 12, 2018     Staff Directive
+September 12, 2018     Staff Directive validated September 17, 2019
 - The Committee directed staff to advocate for an economic/growth mandate for PMRA.
 
 
@@ -170,7 +170,7 @@ May 2018     Semiannual
 
 - That a credible industry-led pesticide lifecycle stewardship approach be collaboratively constructed and implemented that includes adherence to national standards that are within industry control to support compliance with registered pesticide label directions and ensure the health and safety of people and the environment.
 
-September 12, 2018 Staff Directive
+September 12, 2018 Staff Directive validated September 17, 2019
 
 - Proactively proceed with this initiative even if PMRA does not see this subsector as a major concern as it addresses the risk of additional problems being identified through national water monitoring in the future.
 - It is understood that an industry-wide no-ship policy would be how compliance would be assured.
@@ -180,23 +180,23 @@ September 12, 2018 Staff Directive
 
 _This industry-led policy strives to provide an appropriate balance between enabling the commercialization of innovative and new chemistry/crop use products, while assuring shippers and growers that Canadian exports are not exposed to unacceptable trade risks of shipments being rejected at port._
 
-May 2019    Quarterly
+September 2019    Quarterly
 - That the policy is a work in progress in which CropLife Canada and its members are actively participating in with a view to continuous improvement.
 
 ## CropLife Canada support of CAAR
 
-September 12, 2018    Motion
+September 12, 2018    Motion validated September 17, 2019
 
 - Motion: That support for CAAR be left as a company-specific decision, that CropLife Canada representation on the CAAR Board is not merited at this time and that CropLife Canada instead support the CAAR Board when aligned with CropLife Canada priorities.
 
-## Defending modern agriculture innovations
+## Defending modern pest control innovations
 
 May 2019    Quarterly
 
-_As seen with glyphosate in the United States and other jurisdictions, if left unchallenged, public opinion may trump future risk-based regulatory decisions and could conceivably curtail any further pubic Government of Canada defense of the pesticide regulatory system and specific chemistries._
+_As seen with glyphosate in the United States and other jurisdictions, if left unchallenged, special interest group opinions may trump future risk-based regulatory decisions and could conceivably curtail any further public Government of Canada defense of the pesticide regulatory system and specific chemistries._
 
 - That CropLife Canada work to increase decision makers' understanding and appreciation of the complexity of the systems used to produce the food we eat, its quality, affordability and other benefits including:
-  - Plant science innovations are designed to produce more food;
+  - Plant science innovations are designed to optimize resource use for efficient food production;
   - Pesticides are designed to kill pests that threaten production; and
   - Both are carefully regulated to assure their safety to people, animals and the environment.
 - That CropLife Canada continue to advocate the proven benefits of modern agriculture and that the potential risks are identified, thoroughly studied and proactively mitigated by Health Canada and the PMRA.  Benefits include:
@@ -205,10 +205,14 @@ _As seen with glyphosate in the United States and other jurisdictions, if left u
   - Restoration and preservation of wildlife habitat.
 - That government decision makers acknowledge that the success of chemistry solutions is a prime target for funding by both the genuinely curious researchers and those opposed to modern agriculture alike.
   - The more studies there are, the more outlier results there also are which can be selectively used to prove a point, whether positive or negative.
+- That pest management plays a significant role in many aspects of the quality of life in Canada including:
+  - Establishment and maintenance of lawns and gardens and public green spaces; and
+  - Public health (control of mosquitos, cockroaches, bedbugs, lice, ticks, rodents and other disease vectors). 
+
 
 
 ## Drones: Label expansion
-September 12, 2018   Staff Directive
+September 12, 2018   Staff Directive validated September 17, 2019
 
 - The decision to proceed with a label expansion to include drone application resides with individual companies.
 
@@ -241,7 +245,7 @@ May 2019     Biannually
 
 ## Regulatory efficiency
 
-May 2019     Quarterly
+September 2019     Quarterly
 
 - That regulatory reform is critical for agriculture to be a key player in the success of Canada's economy as outlined in the Economic Strategy Table reports.
 - That the promise to improve the sector's regulatory environment is a welcome development for Canadian agri-food firms, however, the government needs to implement direct action to showcase our safe, high-quality agri-food products to the world.
@@ -250,7 +254,7 @@ May 2019     Quarterly
 
 ## Urban pesticides
 
-May 2019     Annual
+September 2019     Annual
 
 - That urban pesticides protect public and private green spaces from insects, weeds and diseases.
 - That homeowners benefit from the control a wide range of pests, including: cockroaches, ants, spiders, silverfish, flies, mosquitoes, fleas, ticks and bed bugs, rats and mice.
