@@ -23,7 +23,7 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
 - Autres sujets
   - [Politique sur l’acceptation par le marché de la CCG](#politique-sur-lacceptation-par-le-marché-du-conseil-des-grains-du-canada-ccg)
   - [Soutien de CropLife Canada à la CAAR](#soutien-de-croplife-canada-à-lassociation-canadienne-des-détaillants-agricoles-caar)
-  - [Défendre les innovations modernes en matière de lutte antiparasitairee](#défendre-les-innovations-modernes-en-matière-de-lutte-antiparasitaireede)
+  - [Défendre les innovations modernes en matière de lutte antiparasitaire](#défendre-les-innovations-modernes-en-matière-de-lutte-antiparasitaire)
   - [Drones : Ajout aux étiquettes](#drones--ajout-aux-étiquettes)
   - [Gérer la résistance maintenant](#gérer-la-résistance-maintenant)
   - [Technologies de la phytologie : Aider le Canada à croître](#technologies-de-la-phytologie--aider-le-canada-à-croître)
