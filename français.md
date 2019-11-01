@@ -23,7 +23,7 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
 - Autres sujets
   - [Politique sur l’acceptation par le marché de la CCG](#politique-sur-lacceptation-par-le-marché-du-conseil-des-grains-du-canada-ccg)
   - [Soutien de CropLife Canada à la CAAR](#soutien-de-croplife-canada-à-lassociation-canadienne-des-détaillants-agricoles-caar)
-  - [Défendre les innovations de l’agriculture moderne](#défendre-les-innovations-de-lagriculture-moderne)
+  - [Défendre les innovations modernes en matière de lutte antiparasitairee](#défendre-les-innovations-modernes-en-matière-de-lutte-antiparasitaireede)
   - [Drones : Ajout aux étiquettes](#drones--ajout-aux-étiquettes)
   - [Gérer la résistance maintenant](#gérer-la-résistance-maintenant)
   - [Technologies de la phytologie : Aider le Canada à croître](#technologies-de-la-phytologie--aider-le-canada-à-croître)
@@ -34,7 +34,7 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
 
 ## Mandat et organisation du Comité de chimie
 
-Mandat : Sur la base des priorités de CropLife Canada, assurer la surveillance stratégique, la direction et l’harmonisation des activités du Comité de la science chimique et des affaires règlementaires (CSCAR), du Comité mixte urbain/non agricole (CropLife Canada/Fertilisants Canada) et du Comité de gestion de la résistance, avec le soutien des affaires gouvernementales et des communications, afin d’obtenir les résultats souhaités sur les sujets et intérêts définis par le Comité de chimie concernant les produits antiparasitaires utilisés à des fins agricoles, urbaines/non agricoles et de santé publique.
+Mandat : Sur la base des objectifs définis dans le plan stratégiquepriorités  de CropLife Canada, le Comité de chimie assurer la surveillance stratégique, la direction et l’harmonisation des activités du Comité de la science chimique et des affaires règlementaires (CSCAR), du Comité mixte urbain/non agricole (CropLife Canada/Fertilisants Canada) et du Comité de gestion de la résistance, en collaboration avec lesavec le soutien des  affaires gouvernementales et ldes communications, afin d’obtenir les résultats souhaités sur lespour les sujets et les intérêts définis par le Comité de chimiedes membres concernant les produits antiparasitaires utilisés à des fins agricoles, urbaines/non agricoles et de santé publique.
 
 Président : [Craig Brekkas](mailto:Craig%20Brekkas%20%3ccraig.brekkas@arysta.com%3e?subject=Chemistry%20Committee) 1-720-550-6329 (mobile 1-720-625-2997)
 
@@ -44,19 +44,22 @@ Soutien au Comité : [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgsta
 
 ## Calendrier des réunions 2019
 
-- 22 janvier 2019 – Calgary
-- 16 avril 2019 – téléconférence/webinaire
-- 1er mai 2019 – Journées printanières de dialogue, Ottawa
-- 17 septembre 2019 – Edmonton
 - 5 décembre 2019 – Cultiver le Canada, Calgary
+- 28 janvier 2020 – Calgary
+- 10 mars 2019 – téléconférence/webinaire
+- 26 mai 2020 – Journées printanières de dialogue, Ottawa
+- 14 juillet 2020 – téléconférence/webinaire
+- 3 septembre 2020 – Guelph
+- 3 décembre 2020 – Cultiver le Canada, Ottawa
+
 
 
 ## Fongicides : Santé des pollinisateurs (voir aussi Pollinisateurs et néonics)
 
 
-Mai 2019    Chaque trimestre
+Septembre 2019    Chaque trimestre
 
-- Que nous collaborions avec les apiculteurs de la Colombie-Britannique afin de mieux comprendre les causes de la mauvaise santé des colonies après la pollinisation des bleuets.
+- Que nous collaborions avec les communautés apicoles et agricoles apiculteurs de la Colombie-Britannique afin de mieux comprendre les causes de la mauvaise santé des colonies après la pollinisation des bleuets.
 - Que la santé des abeilles est un problème complexe affecté par un certain nombre de facteurs et que l’industrie de la phytologie s’est engagée à participer aux efforts pour protéger les pollinisateurs.
 - Que l’industrie de la phytologie appuie la prise de décisions éclairées fondées sur des données scientifiques concernant l’utilisation de pesticides en rapport avec la santé des pollinisateurs.
 
@@ -64,7 +67,7 @@ Mai 2019    Chaque trimestre
 
 ## Fongicides : Valeur des produits coformulés
 
-Mai 2019     Chaque trimestre
+Septembre 2019     Chaque trimestre
 
 - Que les fongicides coformulés permettent effectivement une efficacité à plus large spectre et aident à garantir que les organismes nuisibles pouvant résister à un mode d’action sont efficacement maîtrisés.
 - Que les fongicides coformulés facilitent le mélange pour les producteurs et garantissent des doses correctes par l’offre de produits uniformes et stables dans un seul contenant.
@@ -76,7 +79,7 @@ Mai 2019      Chaque année
 - Que nous collaborions avec les gouvernements et les partenaires afin de créer les conditions qui permettent à la Chine de promulguer des règles de tolérance à l’importation transparentes, prévisibles et fondées sur les risques, sur la base des normes et directives internationales, reconnaissant que les LMR facilitent les échanges en assurant que les pesticides ont été appliqués conformément aux spécifications homologuées qui figurent sur l’étiquette et qu’elles ne sont pas des normes de sécurité alimentaire.  
 - Que nous collaborions avec les gouvernements et nos partenaires afin de contenir les approches européennes fondées sur les dangers et de défendre les décisions fondées sur les risques permettant aux agriculteurs de continuer à accéder aux outils et technologies modernes qui les maintiennent compétitifs aux niveaux national et mondial.
 
-12 septembre 2018  Directive au personnel
+12 septembre 2018  Directive au personnel validée le 17 septembre 2019
 
 Stratégie de la Chine
 
@@ -90,33 +93,22 @@ Union européenne (UE)
 
 ## Surveillance nationale des eaux de surface pour les pesticides
 
-May 2019     Semi-annual
+Septembre 2019     Semi-annual
 
-_En raison de l’absence d’un réseau pancanadien cohérent d’études sur la surveillance des eaux pour les pesticides, l’ARLA a adopté des approches excessivement prudentes dans ses évaluations des risques pour les réévaluations postérieures à la mise sur le marché, ce qui a entraîné l’annulation d’utilisations qui représenteraient autrement des risques acceptables._
+- Que nous nous engageons à protéger la santé humaine et l’environnement et à assurer la gestion responsable de nos produits.
+- Que des protocoles nationaux robustes, clairs et transparents soient élaborés conjointement avec les intervenants explorés afin de donner àque l’ARLA ait la possibilité d’affiner en toute confiance les évaluations des risques postérieures à la mise sur le marché, au besoin, et de documenter l’efficacité des initiatives d’atténuation des risques menées par les producteurs et l’industrie.
 
+17 septembre 2019     Directive au personnel
 
-
-- Que des protocoles nationaux robustes, clairs et transparents soient explorés afin de donner à l’ARLA la possibilité d’affiner en toute confiance les évaluations des risques postérieures à la mise sur le marché, au besoin, et de documenter l’efficacité des initiatives d’atténuation des risques menées par les producteurs et l’industrie.
-
-
-22 janvier 2019    Directive au personnel
-
-Recueillir plus d’informations sur la surveillance des eaux au Canada, dans d’autres pays et auprès d’autres acteurs actifs dans ce domaine, y compris les universités et l’industrie pharmaceutique, afin d’éclairer l’évolution future des positions politiques de CropLife Canada (CLC).
-
-29 novembre 2018    Directive au personnel
-
-Jouer un rôle de premier plan dans la recommandation d’un programme national de surveillance des eaux (y compris la vision, les objectifs, le ministère responsable, les modèles de financement, etc.).
-
-12 septembre 2018    Directive au personnel
-
-Participer activement au développement dans le but de s’assurer d’avoir son mot à dire. Bien que les membres de CLC puissent envisager de contribuer financièrement pour garantir que nous puissions continuer, de manière crédible, à diriger les activités d’une telle initiative, ils ne devraient pas en être les principaux bailleurs de fonds.
+Que le CSCAR recommande des options d’actions pour faire progresser les intérêts des membres, lesquelles pourraient inclure une proposition de projet-pilote presque finale, avec des jalons et des détails de financement, pour examen par le Comité de chimie lors de sa réunion du 28 janvier 2020 à Calgary.
 
 
 
 ## Réforme des pesticides en Ontario – néonicotinoïdes et agriculture 
 
-Mai 2019     Chaque trimestre
+Septembre 2019     Chaque trimestre
 
+- Que l’ARLA reconnaisse l’efficacité des mesures d’atténuation des risques environnementaux recensés qui sont pilotées par l’industrie.
 - Que le gouvernement de l’Ontario supprime immédiatement le règlement qui restreint l’utilisation des semences enrobées de néonicotinoïdes en vertu de la Loi sur les pesticides de l’Ontario, afin de permettre aux agriculteurs ontariens d’avoir le même accès à ces innovations sécuritaires en matière de protection des cultures que les agriculteurs d’autres provinces.
 - Que le système provincial actuel de classification des pesticides, qui fait double emploi, soit remplacé par un système qui reconnaît et utilise les travaux dans ce domaine déjà effectués au niveau fédéral par l’ARLA.
 
@@ -124,35 +116,41 @@ Mai 2019     Chaque trimestre
 
 ## Réforme des pesticides en Ontario – Comité consultatif de l’Ontario sur les pesticides (CCOP)
 
-Mai 2019     Chaque trimestre
+Septembre 2019     Chaque trimestre
 
 - Que le CCOP soit liquidé et dissous, car il s’agit du seul organisme de règlementation provincial du genre au Canada et que ses travaux font à l’évidence double emploi avec ceux qui sont déjà réalisés par l’ARLA.
 
 
 ## Réforme des pesticides en Ontario – milieu urbain
 
-Mai 2019     Chaque trimestre
+Septembre 2019     Chaque trimestre
 
 - Que le gouvernement de l’Ontario lève l’interdiction des pesticides dits « à des fins esthétiques », afin de rétablir des règles du jeu équitables pour les propriétaires de maison et les petits entrepreneurs de l’Ontario.
+- Que la clause 7.1 (5) actuelle (« Règlements municipaux sans effet ») reste en vigueur.
 - Que nous ne soutenons pas la création d’une nouvelle classe de pesticides accordant un monopole en matière d’application aux opérateurs antiparasitaires agréés, au détriment des propriétaires de maison.
 
 
 
 ## Examen législatif de la Loi sur les produits antiparasitaires (LPA) en 2020
 
-Mai 2019     Chaque trimestre
+Septembre 2019     Chaque trimestre
 
+- Que la LPA reste adaptée à son objectif et ne devrait pas pouvoir être révisée en 2020.
 - Que les examens préalables et postérieurs à la mise sur le marché tiennent davantage compte de la valeur sociale et économique.
 - Que des directives soient fournies pour clarifier les risques acceptables et inacceptables, afin d’assurer la transparence.
-- Que l’interprétation européenne du principe de précaution continue d’être rejetée et n’ait pas sa place dans la Loi – l’approche du Canada fondée sur les risques est appropriée et déjà compatible avec le « devoir de prévenir les préjudices » des régulateurs.
-- Que les évaluations soient terminées en temps opportun, mais que les délais prescrits par la Loi ne sont pas appropriés.
-- Que les dispositions de la Loi pour plus de transparence et d’ouverture continuent d’être bien équilibrées avec la protection des informations commerciales confidentielles, afin de stimuler l’innovation continue.
+- Que la valeur par défaut actuelle (0,1 ppm) de la LMR fixée par le Canada pour la tolérance à l’importation soit conservée.
+- Que, si la loi est réexaminée, CLC continue de prôner ce qui précède et :
+  - Que l’interprétation européenne du principe de précaution continue d’être rejetée et n’ait pas sa place dans la Loi – l’approche du Canada fondée sur les risques est appropriée et déjà compatible avec le « devoir de prévenir les préjudices » des régulateurs.
+  - Que les évaluations soient effectuées de manière transparente et en temps opportun, mais que l’établissement de délais prescrits par la Loi n’est pas approprié. 
+  - Que les propriétaires de données reçoivent une compensation juste et rapide pour les homologations de produits génériques en cours d’examen postcommercialisation; 
+  - Que les dispositions de la Loi pour plus de transparence et d’ouverture continuent d’être bien équilibrées avec la protection des informations commerciales confidentielles, afin de stimuler l’innovation continue; et
+  - Que les LMR du Codex soient adoptées lorsqu’elles existent.
 
 
 
 ## Réévaluation de l’ARLA – recouvrement des coûts
 
-12 septembre 2018   Directive au personnel
+12 septembre 2018   Directive au personnel validée le 17 septembre 2019
 
 - Les conditions suivantes doivent être remplies avant qu’une conversation sur le recouvrement des coûts soit appropriée :
   - Problèmes de protection des données (Protection des droits de propriété sur les données concernant les produits antiparasitaires) résolus à la satisfaction de l’industrie;
@@ -175,7 +173,7 @@ Les changements apportés par l’ARLA à son processus de réévaluation en 201
 - Que des consultations publiques sur le projet d’évaluation des risques soient organisées séparément de la décision proposée, qui comprend des mesures proposées d’atténuation des risques.
 - Que le gouvernement du Canada reconnaisse officiellement le rôle économique que joue l’ARLA dans la facilitation ou l’interdiction d’accès des producteurs à des technologies innovantes en l’incluant dans son mandat et en allouant les ressources appropriées à ce travail.
 
-12 septembre 2018    Directive au personnel
+12 septembre 2018    Directive au personnel validée le 17 septembre 2019
 
 - Le Comité a donné comme instruction au personnel de plaider en faveur d’un mandat économique/de croissance pour l’ARLA. 
 
@@ -189,7 +187,7 @@ Mai 2018     Chaque semestre
 
 - Qu’une approche crédible de gestion responsable du cycle de vie des pesticides, dirigée par l’industrie, soit élaborée et mise en œuvre de manière collaborative. Que cette approche comprenne implicitement l’adhésion à des normes nationales supervisées par l’industrie afin de soutenir le respect des directives homologuées figurant sur les étiquettes de pesticides et d’assurer la santé et la sécurité des personnes et de l’environnement.
 
-12 septembre 2018    Directive au personnel
+12 septembre 2018    Directive au personnel validée le 17 septembre 2019
 
 - Procéder de manière proactive à cette initiative même si l’ARLA ne considère pas ce sous-secteur comme une préoccupation majeure, car elle fera face à la survenance de problèmes supplémentaires par la surveillance nationale de l’eau dans l’avenir.
 - Il est entendu qu’une politique de non-expédition à l’échelle de l’industrie serait la façon de s’assurer de la conformité. 
@@ -210,34 +208,38 @@ Mai 2019    Chaque trimestre
 
 ## Soutien de CropLife Canada à l’Association canadienne des détaillants agricoles (CAAR)
 
-12 septembre 2018    Résolution
+12 septembre 2018    Résolution validée le 17 septembre 2019
 
 - Résolution : Que le soutien à la CAAR soit laissé à la discrétion de chaque entreprise, que la représentation de CropLife Canada au conseil de la CAAR ne semble pas nécessaire pour le moment et que CropLife Canada soutienne plutôt le conseil de la CAAR lorsqu’elle est en phase avec les priorités de CropLife Canada.
 
 
-## Défendre les innovations de l’agriculture moderne
+## Défendre les innovations modernes en matière de lutte antiparasitaire
 
 Mai 2019    Chaque trimestre
 
-_Comme on l’a vu avec le glyphosate aux États-Unis et ailleurs, si on ne l’alimente pas avec d’autres éléments, l’opinion publique peut déjouer les décisions règlementaires basées sur le risque et pourrait éventuellement limiter toute défense que pourrait tenter de faire le gouvernement du Canada de son système de règlementation des pesticides ou de produits chimiques particuliers._
+_Comme on l’a vu avec le glyphosate aux États-Unis et ailleurs, si on ne l’alimente pas avec d’autres élémentsles conteste pas, les ’opinions publique de groupes d’intérêts spéciaux peuvent déjouer leséclipser les futures décisions règlementaires basées sur le risque et pourraient éventuellement limiter toute défense publique supplémentaire que pourrait tenter de faire le gouvernement du Canada dedu son système de règlementation des pesticides ou de produits chimiques particuliers par le gouvernement du Canada.._
 
 - Que CropLife Canada s’emploie à accroître la compréhension et l’appréciation par les décideurs de la complexité des systèmes utilisés pour produire les aliments que nous mangeons, de leur qualité, de leur prix abordable et de nombreux autres avantages, notamment :
-  - les innovations de la phytologie sont conçues pour produire plus d’aliments;
-  - les pesticides sont conçus pour éliminer les ravageurs qui menacent la production; et
-  - ces deux « catégories » sont soigneusement règlementées afin d’assurer leur sécurité pour les personnes, les animaux et l’environnement.
+  - Les innovations de la phytologie sont conçues pour optimiser l’utilisation des ressources en vue d’une production alimentaire efficaceproduire plus d’aliments;
+  - Les pesticides sont conçus pour éliminer les ravageurs qui menacent la production; et
+  - Ces deux « catégories » sont soigneusement règlementées afin d’assurer leur sécurité pour les personnes, les animaux et l’environnement.
 - Que CropLife Canada continue de défendre les avantages avérés de l’agriculture moderne et que les risques potentiels soient cernés, étudiés en profondeur et atténués de manière proactive par Santé Canada et l’ARLA. Ces avantages comprennent :
   - une alimentation à prix abordable, de haute qualité et variée de fruits, de légumes et de céréales;
   - une empreinte carbone agricole moindre (moins d’utilisation de combustibles fossiles, séquestration du carbone); et
   - la restauration et la conservation des habitats fauniques.
 - Que les décideurs gouvernementaux reconnaissent que le succès des solutions chimiques devrait être une cible privilégiée pour le financement à la fois des chercheurs véritablement curieux et des opposants à l’agriculture moderne.
   - Plus il y a d’études, plus il y a de résultats aberrants que l’on peut utiliser sélectivement pour prouver un point, qu’il soit positif ou négatif.
+- Que la lutte antiparasitaire joue un rôle important dans de nombreux aspects de la qualité de vie au Canada, notamment :
+  - l’établissement et l’entretien de pelouses, de jardins et d’espaces verts publics; et
+  - la santé publique (lutte contre les moustiques, coquerelles, punaises de lit, poux, tiques, rongeurs et autres vecteurs de maladies).
+
 
 
 
 
 ## Drones : Ajout aux étiquettes
 
-12 septembre 2018   Directive au personnel
+12 septembre 2018   Directive au personnel validée le 17 septembre 2019
 
 - La décision de procéder à un ajout à l’étiquette afin d’inclure l’application par drone incombe aux entreprises individuelles.
 
@@ -321,8 +323,8 @@ La durabilité est définie comme la réponse aux besoins de la population, la p
 **Principes scientifiques éprouvés :** Nous sommes résolus à utiliser la recherche scientifique et les informations factuelles comme base de notre travail.
 
 Principaux objectifs 2019-2022 de CropLife Canada
-Objectif 1 : Militer en faveur de l’innovation, de la compétitivité et de la durabilité
-Objectif 2 : Améliorer l’image et la réputation de l’industrie de la phytologie et de ses contributions auprès des influenceurs et des consommateurs
-Objectif 3 : Être des leaders mondiaux de la gestion responsable du cycle de vie des innovations en phytologie 
-Objectif 4 : Élargir et renforcer les coalitions et alliances
-Objectif 5 : Maximiser l’impact et la valeur pour les membres
+- Objectif 1 : Militer en faveur de l’innovation, de la compétitivité et de la durabilité
+- Objectif 2 : Améliorer l’image et la réputation de l’industrie de la phytologie et de ses contributions auprès des influenceurs et des consommateurs
+- Objectif 3 : Être des leaders mondiaux de la gestion responsable du cycle de vie des innovations en phytologie 
+- Objectif 4 : Élargir et renforcer les coalitions et alliances
+- Objectif 5 : Maximiser l’impact et la valeur pour les membres
