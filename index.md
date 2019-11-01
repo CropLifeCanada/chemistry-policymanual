@@ -287,8 +287,8 @@ Sustainability is meeting the needs of people, protecting the environment and bu
 **Sound Science** : We are steadfast in the use of scientific research and fact-based information as the foundation of our work.
 
 **CropLife Canada Key Goals 2019-2022**
-Goal 1: Advocate for innovation, competitiveness and sustainability
-Goal 2: Enhance the image and reputation of the plant science industry and its contributions with influencers and consumers
-Goal 3: Be world leaders in lifecycle stewardship of plant science innovation
-Goal 4: Broaden and enhance coalitions and alliances
-Goal 5: Maximize impact and member value
+- Goal 1: Advocate for innovation, competitiveness and sustainability
+- Goal 2: Enhance the image and reputation of the plant science industry and its contributions with influencers and consumers
+- Goal 3: Be world leaders in lifecycle stewardship of plant science innovation
+- Goal 4: Broaden and enhance coalitions and alliances
+- Goal 5: Maximize impact and member value
