@@ -42,9 +42,8 @@ Secrétaire : [Alan Schlachter](mailto:Alan%20Schlachter%20%3cschlachtera@cropli
 
 Soutien au Comité : [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstallerl@croplife.ca%3e?subject=Chemistry%20Committee)  613-230-9881 ext. 3221
 
-## Calendrier des réunions 2019
+## Calendrier des réunions 
 
-- 5 décembre 2019 – Cultiver le Canada, Calgary
 - 28 janvier 2020 – Calgary
 - 10 mars 2019 – téléconférence/webinaire
 - 26 mai 2020 – Journées printanières de dialogue, Ottawa
