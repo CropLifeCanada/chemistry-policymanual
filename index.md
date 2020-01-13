@@ -45,7 +45,7 @@ Committee Support: [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstall
 
 ## Meeting schedule
 
-- - January 28, 2020 – Calgary
+- January 28, 2020 – Calgary
 - March 10, 2020 – Teleconference/webinar
 - May 26, 2020 – Spring Dialogue Days, Ottawa
 - July 14, 2020 – Teleconference/webinar
