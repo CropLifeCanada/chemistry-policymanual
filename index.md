@@ -43,10 +43,9 @@ Secretary: [Alan Schlachter](mailto:Alan%20Schlachter%20%3cschlachtera@croplife.
 
 Committee Support: [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstallerl@croplife.ca%3e?subject=Chemistry%20Committee)  613-230-9881 ext. 3221
 
-## 2019 Meeting schedule
+## Meeting schedule
 
-- December 5, 2019 – GrowCanada Conference, Calgary 
-- January 28, 2020 – Calgary
+- - January 28, 2020 – Calgary
 - March 10, 2020 – Teleconference/webinar
 - May 26, 2020 – Spring Dialogue Days, Ottawa
 - July 14, 2020 – Teleconference/webinar
