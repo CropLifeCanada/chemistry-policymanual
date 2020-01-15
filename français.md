@@ -8,7 +8,7 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
 
 - [Mandat et organisation du Comité de chimie](#mandat-et-organisation-du-comité-de-chimie)
 - [Calendrier des réunions du Comité de chimie](#calendrier-des-réunions)
-- [Vision, mandat et valeurs](#Vision--mandat-et-valeurs)
+- [Vision, mandat et valeurs](#Vision-mandat-et-valeurs)
 - Priorités de niveau 1
   - [Fongicides : Santé des pollinisateurs](#fongicides--santé-des-pollinisateurs-voir-aussi-pollinisateurs-et-néonics)
   - [Fongicides : Valeur des produits coformulés](#fongicides--valeur-des-produits-coformulés)
