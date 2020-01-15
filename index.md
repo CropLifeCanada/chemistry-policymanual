@@ -7,7 +7,7 @@ The date that appears after the issue title indicates when the policy, motion or
 ## Table of Contents
 
 - [Chemistry Committee mandate and organization](#chemistry-committee-mandate-and-organization)
-- [Chemistry Committee meeting schedule 2019](#2019-meeting-schedule)
+- [Chemistry Committee meeting schedule](#meeting-schedule)
 - CropLife Canada: Vision, mandate and values
 - Tier 1 Priorities
   - [Fungicides: Pollinator health](#fungicides-pollinator-health-see-also-pollinators-and-neonics)
