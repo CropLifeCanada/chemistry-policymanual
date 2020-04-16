@@ -154,13 +154,13 @@ Résolution validée le 17 septembre 2019
 
 Mars 2019     Chaque année
 
-•	Que le Programme de conseillers certifiés en phytotechnie continue d’apporter une valeur ajoutée aux membres.
+- Que le Programme de conseillers certifiés en phytotechnie continue d’apporter une valeur ajoutée aux membres.
 
 Mars 2020     Directive au personnel 
 
-•	Dans le cadre du prochain cycle d’examen, inviter les membres de CLC à désigner des représentants d’entreprises pour examiner/recommander du contenu supplémentaire pour le Programme des CCP.
-•	Modifier le Code de conduite de CLC afin de garantir que le personnel qui formule des recommandations agronomiques possède, au minimum, une certification de CAC (conseiller agréé en cultures) ou de CCP.
-•	Revoir les activités de sensibilisation du Programme pour s’assurer que les membres sont bien informés.
+- Dans le cadre du prochain cycle d’examen, inviter les membres de CLC à désigner des représentants d’entreprises pour examiner/recommander du contenu supplémentaire pour le Programme des CCP.
+- Modifier le Code de conduite de CLC afin de garantir que le personnel qui formule des recommandations agronomiques possède, au minimum, une certification de CAC (conseiller agréé en cultures) ou de CCP.
+- Revoir les activités de sensibilisation du Programme pour s’assurer que les membres sont bien informés.
 
 
 
@@ -195,9 +195,9 @@ Directive au personnel validée le 17 septembre 2019
 
 Janvier 2020    Chaque année
 
-•	Que nous collaborions avec les communautés apicoles et agricoles afin de mieux comprendre les causes de la mauvaise santé des colonies après la pollinisation des bleuets.
-•	Que la santé des abeilles est un problème complexe affecté par un certain nombre de facteurs et que l’industrie de la phytologie s’est engagée à participer aux efforts pour protéger les pollinisateurs.
-•	Que l’industrie de la phytologie appuie la prise de décisions éclairées fondées sur des données scientifiques concernant l’utilisation de pesticides en rapport avec la santé des pollinisateurs.
+- Que nous collaborions avec les communautés apicoles et agricoles afin de mieux comprendre les causes de la mauvaise santé des colonies après la pollinisation des bleuets.
+- Que la santé des abeilles est un problème complexe affecté par un certain nombre de facteurs et que l’industrie de la phytologie s’est engagée à participer aux efforts pour protéger les pollinisateurs.
+- Que l’industrie de la phytologie appuie la prise de décisions éclairées fondées sur des données scientifiques concernant l’utilisation de pesticides en rapport avec la santé des pollinisateurs.
 
 
 ## Gérer la résistance maintenant
@@ -211,11 +211,11 @@ Mai 2019     Chaque année
 
 Mars 2019     Chaque année
 
-•	Que les agriculteurs utilisent les néonicotinoïdes parce qu’ils sont sûrs et respectueux de l’environnement et qu’ils permettent une protection ciblée des cultures. 
-  - Comme seules de petites quantités sont nécessaires pour enrober les semences, les expositions humaines et environnementales sont réduites par rapport à d’autres types de technologies d’application. 
-  - L’utilisation de semences traitées peut également réduire la nécessité de pulvériser plusieurs fois des insecticides pour lutter contre les insectes.
-•	Que l’atténuation, à l’initiative de l’industrie, des risques environnementaux recensés soit reconnue par l’ARLA comme efficace. 
-•	Que les systèmes provinciaux de classification des pesticides qui font actuellement double emploi soient remplacés par des systèmes qui respectent l’expertise de l’ARLA et son mandat en matière de sécurité nationale. 
+- Que les agriculteurs utilisent les néonicotinoïdes parce qu’ils sont sûrs et respectueux de l’environnement et qu’ils permettent une protection ciblée des cultures.
+- Comme seules de petites quantités sont nécessaires pour enrober les semences, les expositions humaines et environnementales sont réduites par rapport à d’autres types de technologies d’application. 
+- L’utilisation de semences traitées peut également réduire la nécessité de pulvériser plusieurs fois des insecticides pour lutter contre les insectes.
+- Que l’atténuation, à l’initiative de l’industrie, des risques environnementaux recensés soit reconnue par l’ARLA comme efficace. 
+- Que les systèmes provinciaux de classification des pesticides qui font actuellement double emploi soient remplacés par des systèmes qui respectent l’expertise de l’ARLA et son mandat en matière de sécurité nationale. 
 
 ## Technologies de la phytologie : Aider le Canada à croître
 
@@ -231,15 +231,15 @@ Mai 2019     Chaque année
 
 Directive au personnel validée en mars 2020
 
--	Que les conditions suivantes doivent être remplies avant qu’une conversation sur le recouvrement des coûts soit appropriée :
-  - Problèmes de protection des données (PDPDPA, Protection des droits de propriété sur les données concernant les produits antiparasitaires) résolus à la satisfaction de l’industrie;
-  - Améliorations efficaces des processus; et
-  - Suffisamment de ressources allouées à l’ARLA pour s’assurer que la charge de travail peut être achevée dans un délai raisonnable.
+Que les conditions suivantes doivent être remplies avant qu’une conversation sur le recouvrement des coûts soit appropriée :
+- Problèmes de protection des données (PDPDPA, Protection des droits de propriété sur les données concernant les produits antiparasitaires) résolus à la satisfaction de l’industrie;
+- Améliorations efficaces des processus; et
+- Suffisamment de ressources allouées à l’ARLA pour s’assurer que la charge de travail peut être achevée dans un délai raisonnable.
 
--	Que les conditions pour que le recouvrement des coûts soit envisagé comprennent :
-  - Des exigences claires en matière de données;
-  - Des processus clairs et transparents; et
-  - Un respect rigoureux des délais, avec un recours utile en cas de non-respect.
+Que les conditions pour que le recouvrement des coûts soit envisagé comprennent :
+- Des exigences claires en matière de données;
+- Des processus clairs et transparents; et
+- Un respect rigoureux des délais, avec un recours utile en cas de non-respect.
 
 ## Pollinisateurs et néonics – Ontario et Québec
 
