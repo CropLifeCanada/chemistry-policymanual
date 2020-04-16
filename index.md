@@ -9,26 +9,27 @@ The date that appears after the issue title indicates when the policy, motion or
 - [Chemistry Committee mandate and organization](#chemistry-committee-mandate-and-organization)
 - [Chemistry Committee meeting schedule](#meeting-schedule)
 - [CropLife Canada: Vision, mandate and values](#Mission-and-Values)
+
 - Tier 1 Priorities
-  - [Fungicides: Pollinator health](#fungicides-pollinator-health-see-also-pollinators-and-neonics)
-  - [Fungicides: Value of co-formulated products](#fungicides-value-of-co-formulated-products)
   - [Maximum residue limits (MRLs) and trade](#maximum-residue-limits-mrls-and-trade)
   - [National surface water monitoring for pesticides](#national-surface-water-monitoring-for-pesticides)
-  - [Ontario pesticide reform – neonicotinoids and agriculture](#ontario-pesticide-reform--neonicotinoids-and-agriculture)
-  - [Ontario pesticide reform – OPAC](#ontario-pesticide-reform--ontario-pesticide-advisory-committee-opac)
   - [Ontario pesticide reform – urban](#ontario-pesticide-reform---urban)
   - [PCPA legislative review 2020](#pcpa-legislative-review-2020)
-  - [PMRA re-evaluation – cost recovery](#pmra-re-evaluation--cost-recovery)
   - [PMRA re-evaluation process improvement](#pmra-re-evaluation-process-improvement)
   - [Protected agriculture stewardship](#protected-agriculture-stewardship)
+
 - Other Issues
   - [CGC Market Acceptance Policy](#cgc-market-acceptance-policy)
   - [CropLife Canada support of CAAR](#croplife-canada-support-of-caar)
+  - [Certified Crop Science Consultant Program](#Certified-Crop-Science-Consultant-Program-CCSC-)
   - [Defending modern pest control innovations](#defending-modern-pest-control-innovations)
   - [Drones: Label expansion](#drones-label-expansion)
+  - [Fungicides: Pollinator health](#fungicides-pollinator-health-see-also-pollinators-and-neonics)
   - [Manage Resistance Now](#manage-resistance-now)
+  - [Neonicotinoids and agriculture](#Neonicotinoids-and-agriculture)
   - [Plant Science Technologies: Helping Canada Grow](#plant-science-technologies-helping-canada-grow)
-  - [Pollinators and neonics](#pollinators-and-neonics--ontario-and-quebec)
+  - [PMRA - cost recovery](#PMRA-cost-recovery)
+  - [Pollinators and neonicotinoids: Ontario and Quebec](#Pollinators-and-neonicotinoids-ontario-and-quebec)
   - [Regulatory Efficiency](#regulatory-efficiency)
   - [Urban pesticides](#urban-pesticides)
 - [CropLife Canada Mission and Values](#mission-and-values)
@@ -45,29 +46,11 @@ Committee Support: [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstall
 
 ## Meeting schedule
 
-- January 28, 2020 – Calgary
 - March 10, 2020 – Teleconference/webinar
 - May 26, 2020 – Spring Dialogue Days, Ottawa
 - July 14, 2020 – Teleconference/webinar
 - September 3, 2020 – Guelph
 - December 3, 2020 – GrowCanada Conference, Ottawa
-
-
-## Fungicides: Pollinator health (see also Pollinators and neonics)
-
-September 2019, Quarterly
-
-- That we work collaboratively with the beekeeping and agricultural communities to better understand the causes of poor colony health after pollination of blueberry crops.
-- That bee health is a complex issue impacted by a number of factors and the plant science industry is committed to doing its part to protect pollinators.
-- That the plant science industry supports sound, science-based decision making around the use of pesticides as this relates to pollinator health.
-
-
-## Fungicides: Value of co-formulated products
-
-September 2019     Quarterly
-
-- That co-formulated fungicides effectively and efficiently deliver broader spectrum pest control and help ensure that pests that may be resistant to a mode of action are effectively controlled.
-- That co-formulated fungicides make it easier for growers to mix and ensure proper rates by providing uniform, stable products in a single container.
 
 ## Maximum residue limits (MRLs) and trade
 
@@ -75,8 +58,9 @@ May 2019      Annual
 
 - That we engage with governments and partners to create conditions that allow China to promulgate transparent, predictable, risk-based import tolerance regulations based on international standards and guidelines, recognizing that MRLs facilitate trade by verifying that pesticides have been applied according to registered label specifications and that they are not food safety standards.
 - That we engage with governments and our partners to contain Europe's hazard-based approaches and defend risk-based decisions that allow farmers to continue to access modern tools and technologies that keep them competitive domestically and globally.
+- That Canada’s current 0.1ppm import tolerance MRL default be retained.
 
-September 12, 2018 Staff Directive, validated September 17, 2019
+Staff Directive, validated September 17, 2019
 
 China Strategy
 
@@ -87,33 +71,16 @@ European Union
 
 ## National surface water monitoring for pesticides
 
-September 2019     Semi-annual
+January 2020     Quarterly
 
-- That we are committed to the safeguarding of human health and the environment and proper stewardship of our products.
-- That robust, clear and transparent national protocols be co-developed with stakeholders so PMRA has the ability to confidently refine post-market risk assessments when needed and to document the effectiveness of industry and grower-led risk mitigation initiatives.
-
-September 17, 2019  Staff Directive
-
-That CSRC recommend options for actions to advance members interests that may include a near-final pilot-project proposal with milestones and funding details for Chemistry Committee consideration at its January 28, 2020, meeting in Calgary.
-
-## Ontario pesticide reform – neonicotinoids and agriculture
-
-September 2019     Quarterly
-
-- That industry-led mitigation of identified environmental risks are recognized by the PRMA as effective. 
-- That the Government of Ontario immediately remove the regulation that restrict the use of neonicotinoid seed under the _Ontario Pesticides Act_ in order to allow Ontario farmers to have the same access to these safe crop protection innovations as farmers in other jurisdictions.
-- That the current duplicative provincial pesticide classification system be replaced with one that recognizes and makes use of the work already being done federally in this regard by the PMRA.
-
-
-## Ontario pesticide reform – Ontario Pesticide Advisory Committee (OPAC)
-
-September 2019     Quarterly
-
-- That OPAC should be wound up and disbanded as it is the only provincial regulatory body of its kind in Canada and clearly duplicates work already being performed by PMRA.
+- That we are committed to the safeguarding of human health and the environment and proper stewardship of our products.  
+- That the scope of a national surface water monitoring program be to:
+  - Support stakeholder-led stewardship initiatives in preventing unacceptable levels of pesticides in surface water; and
+  - Co-develop and consolidate national surface water monitoring studies to reliably collect robust, standardized data that can be used for trend analysis and to confidently refine post-market risk assessments.
 
 ## Ontario pesticide reform - urban
 
-September 2019     Quarterly
+January 2020     Quarterly
 
 - That the Government of Ontario lift the so-called "cosmetic" pesticide ban to instead return to a level playing field for Ontario homeowners and small business people.
 - That the current “bylaw inoperative” clause (7.1(5) remain in effect. 
@@ -121,105 +88,114 @@ September 2019     Quarterly
 
 ## PCPA legislative review 2020
 
-September 2019     Quarterly
+January 2020     Quarterly
 
 - That the PCPA remains fit for purpose and should not be opened for review in 2020.
-- That pre- and post-market reviews include stronger consideration of social and economic value.
-- That guidance be provided to clarify acceptable risk and unacceptable risk to assure transparency.
-- That Canada’s current 0.1ppm import tolerance MRL default be retained.
-- That if the Act is opened, CLC continue to advocate for the above and:
-  - That Europe's interpretation of the precautionary principle continues to be rejected and has no place in the Act – Canada's risk-based approach is appropriate and already consistent with regulators' "duty to prevent harm";
-  - That evaluations be completed in a transparent, timely fashion but that the establishment of legislated timeframes are not appropriate; and
-  - That the Act's provisions for greater transparency and openness continue to be appropriately balanced with the protection of confidential business information in order to drive continued innovation; and
-  - That Codex MRLs be adopted when they exist. 
-
-
-
-## PMRA re-evaluation – cost recovery
-September 12, 2018     Staff Directive validated September 17, 2019
-
-- The following conditions need to be met before a conversation about cost re-recovery would be appropriate:
-  - Data protection issues (PPIP) resolved to industry satisfaction;
-  - Effective process improvements; and
-  - PMRA being sufficiently resourced to assure the workload can be completed within a reasonable period of time.
-
-- Conditions for cost-recovery to be considered include:
-  - Clear data requirements;
-  - Clear transparent processes; and
-  - Strict adherence to time lines with meaningful recourse for missing them.
+- That existing irritants can be addressed without opening up the Act.
 
 ## PMRA re-evaluation process improvement
+
 May 2019     Annual
 
-_The changes PMRA made to its re-evaluation process in 2016 have resulted in incomplete risk assessments and overly conservative decisions that unnecessarily restrict uses of high economic value._
+The changes PMRA made to its re-evaluation process in 2016 have resulted in incomplete risk assessments and overly conservative decisions that unnecessarily restrict uses of high economic value.
 
-- That PMRA allow meaningful two-way technical dialogue with stakeholders prior to initiation and throughout the re-evaluation process.
-- That public consultations be sought on the draft risk assessment separately from the proposed decision that includes proposed risk mitigation measures.
-- That the Government of Canada formally acknowledge the economic role PMRA plays in facilitating or inhibiting grower access to innovative technologies by including this in its mandate and by allocating the appropriate resources for this work.
+-	That PMRA allow meaningful two-way technical dialogue with stakeholders prior to initiation and throughout the re-evaluation process.
+-	That public consultations be sought on the draft risk assessment separately from the proposed decision that includes proposed risk mitigation measures.
+-	That the Government of Canada formally acknowledge the economic role PMRA plays in facilitating or inhibiting grower access to innovative technologies by including this in its mandate and by allocating the appropriate resources for this work.
 
-September 12, 2018     Staff Directive validated September 17, 2019
-- The Committee directed staff to advocate for an economic/growth mandate for PMRA.
+Staff Directive validated September 17, 2019
 
+-	The Committee directed staff to advocate for an economic/growth mandate for PMRA.
 
 ## Protected agriculture stewardship
 
-_Growers need access to the full suite of registered minor uses of pesticides to remain competitive both domestically and internationally. To assure this, potential pathways to the environment and the risks posed need to be proactively addressed in ways acceptable to PMRA. Protected agriculture systems consist of greenhouses, shade houses, nurseries and high tunnels._
+_Growers need access to the full suite of registered minor uses of pesticides to remain competitive both domestically and internationally. To ensure this, potential pathways to the environment and the risks posed need to be proactively addressed in ways acceptable to PMRA. Protected agriculture systems consist of greenhouses, shade houses, nurseries and high tunnels._
 
-May 2018     Semiannual
+January 2020     Annual
 
-- That a credible industry-led pesticide lifecycle stewardship approach be collaboratively constructed and implemented that includes adherence to national standards that are within industry control to support compliance with registered pesticide label directions and ensure the health and safety of people and the environment.
+-	That a credible industry-led pesticide lifecycle stewardship approach be collaboratively constructed and implemented that includes adherence to national standards that are within industry control to support compliance with registered pesticide label directions and ensure the health and safety of people and the environment. 
 
-September 12, 2018 Staff Directive validated September 17, 2019
+Staff Directive updated March 2020
 
-- Proactively proceed with this initiative even if PMRA does not see this subsector as a major concern as it addresses the risk of additional problems being identified through national water monitoring in the future.
-- It is understood that an industry-wide no-ship policy would be how compliance would be assured.
-- While CLC is helping to set up the program, delivery should be paid for by the grower groups.
+-	Adherence to an industry-wide no-ship policy is how compliance would be ensured – all PCPA-registered products with label statements for greenhouse applications should be included.  A simple waiver form would allow facilities to access product for uses that are beyond the scope of Phase 1. 
+-	While CLC is funding development of the program in collaboration with growers, audit and implementation costs should be paid directly by the audited facilities.
 
 ## CGC Market Acceptance Policy
 
 _This industry-led policy strives to provide an appropriate balance between enabling the commercialization of innovative and new chemistry/crop use products, while assuring shippers and growers that Canadian exports are not exposed to unacceptable trade risks of shipments being rejected at port._
 
-September 2019    Quarterly
-- That the policy is a work in progress in which CropLife Canada and its members are actively participating in with a view to continuous improvement.
+January 2020    Quarterly
+
+-	That the policy is a work in progress in which CropLife Canada and its members are actively participating in with a view to continuous improvement. 
 
 ## CropLife Canada support of CAAR
 
-September 12, 2018    Motion validated September 17, 2019
+Motion validated September 17, 2019
 
-- Motion: That support for CAAR be left as a company-specific decision, that CropLife Canada representation on the CAAR Board is not merited at this time and that CropLife Canada instead support the CAAR Board when aligned with CropLife Canada priorities.
+- Motion: That support for CAAR be left as a company-specific decision, that CropLife Canada representation on the CAAR Board is not merited at this time and that CropLife Canada instead support the CAAR Board when aligned with CropLife Canada priorities. 
+
+## Certified Crop Science Consultant Program (CCSC)
+
+March 2019     Annual
+
+-	That the Certified Crop Science Consultant Program continues to provide value to members.
+
+Staff Directive March 2020
+
+-	As part of the next review cycle, invite CLC members to identify company representatives to review/recommend additional content for the CCSC program.
+-	Amend the CLC Code of Conduct to ensure staff making agronomic recommendations have, at a minimum, either CCA and/or CCSC certification.
+-	Review the program’s outreach activities to ensure member awareness.
 
 ## Defending modern pest control innovations
 
-May 2019    Quarterly
 
-_As seen with glyphosate in the United States and other jurisdictions, if left unchallenged, special interest group opinions may trump future risk-based regulatory decisions and could conceivably curtail any further public Government of Canada defense of the pesticide regulatory system and specific chemistries._
+January 2020    Annual 
 
-- That CropLife Canada work to increase decision makers' understanding and appreciation of the complexity of the systems used to produce the food we eat, its quality, affordability and other benefits including:
+As seen with glyphosate in the United States and other jurisdictions, if left unchallenged, special interest group opinions may trump future risk-based regulatory decisions and could conceivably curtail any further public Government of Canada defense of the pesticide regulatory system and specific chemistries.
+
+-	That CropLife Canada work to increase decision makers’ understanding and appreciation of the complexity of the systems used to produce the food we eat, its quality, affordability and other benefits including:
   - Plant science innovations are designed to optimize resource use for efficient food production;
   - Pesticides are designed to kill pests that threaten production; and
   - Both are carefully regulated to assure their safety to people, animals and the environment.
-- That CropLife Canada continue to advocate the proven benefits of modern agriculture and that the potential risks are identified, thoroughly studied and proactively mitigated by Health Canada and the PMRA.  Benefits include:
+-	That CropLife Canada continue to advocate the proven benefits of modern agriculture and that the potential risks are identified, thoroughly studied and proactively mitigated by Health Canada and the PMRA.  Benefits include:
   - An affordable, high-quality varied diet of fruit, vegetables and grain;
   - A smaller agricultural carbon foot print (less fossil fuel use, carbon sequestration); and
   - Restoration and preservation of wildlife habitat.
-- That government decision makers acknowledge that the success of chemistry solutions is a prime target for funding by both the genuinely curious researchers and those opposed to modern agriculture alike.
+-	That government decision makers acknowledge that the success of chemistry solutions is a prime target for funding by both genuinely curious researchers and those opposed to modern agriculture alike.
   - The more studies there are, the more outlier results there also are which can be selectively used to prove a point, whether positive or negative.
 - That pest management plays a significant role in many aspects of the quality of life in Canada including:
   - Establishment and maintenance of lawns and gardens and public green spaces; and
   - Public health (control of mosquitos, cockroaches, bedbugs, lice, ticks, rodents and other disease vectors). 
 
-
-
 ## Drones: Label expansion
-September 12, 2018   Staff Directive validated September 17, 2019
 
-- The decision to proceed with a label expansion to include drone application resides with individual companies.
+Staff Directive validated September 17, 2019
+
+-	The decision to proceed with a label expansion to include drone application resides with individual companies.
+
+## Fungicides: Pollinator health (see also Pollinators and neonics)
+
+January 2020    Annual
+
+-	That we work collaboratively with the beekeeping and agricultural communities to better understand the causes of poor colony health after pollination of blueberry crops.
+-	That bee health is a complex issue impacted by a number of factors and the plant science industry is committed to doing its part to protect pollinators. 
+-	That the plant science industry supports sound, science-based decision making around the use of pesticides as this relates to pollinator health.
 
 ## Manage Resistance Now
 
 May 2019     Annual
 
 - That resistance to plant science technologies is a serious issue for both the crop protection industry and the broader agricultural community and that CropLife Canada staff be committed to make resistance management a high priority in the organization.
+
+## Neonicotinoids and agriculture
+
+March 2019     Annual
+
+-	That farmers use neonicotinoids because they are safe, environmentally friendly and provide targeted crop protection. 
+  - Since only small quantities are needed to coat the seed, human and environmental exposures are reduced relative to other types of application technology. 
+  - Using treated seeds can also reduce the need to spray insecticides multiple times to control insects.
+-	That industry-led mitigation of identified environmental risks are recognized by the PRMA as effective. 
+-	That the current duplicative provincial pesticide classification systems be replaced with ones that defer to the PMRA’s expertise and national safety mandate. 
 
 ## Plant Science Technologies: Helping Canada Grow
 
@@ -230,34 +206,51 @@ May 2019     Annual
 - $8.3 billion, or 71% of Canada's trade balance in crops, is directly attributable to innovations in crop protection products and plant biotechnology.
 - Canadian families save an average of $4,400 a year on food costs thanks to efficient, high-yield farming practices.
 
+## PMRA - cost recovery
+
+Staff Directive validated March 2020
+
+-	That the following conditions need to be met before a conversation about cost re-recovery would be appropriate:
+  - Data protection issues (PPIP) resolved to industry satisfaction;
+  - Effective process improvements; and
+  - PMRA being sufficiently resourced to assure the workload can be completed within a reasonable period of time.
+
+-	That conditions for cost-recovery to be considered include:
+  - Clear data requirements;
+  - Clear transparent processes; and
+  - Strict adherence to time lines with meaningful recourse for missing them.
+
+
+
 ## Pollinators and neonics – Ontario and Quebec
 
-May 2019     Biannually
+March 2020     Annual
 
-- That:
-  - The largest volume of neonic use is in western Canada as seed treatments and bee keepers there are not concerned by neonic use - the number of bee colonies in western Canada is about five times greater than in Quebec and Ontario combined.
-  - PMRA's April 2019 final special review decisions on pollinators concluded that neonic seed treatments and use on greenhouse vegetables do not pose unacceptable risks to bees or other pollinators.
-  - According to 2018 Statistics Canada data, the number of colonies nationally has been steadily increasing for many years, despite extensive use of neonic pesticides.
-    - There were 5% less bee colonies in Ontario but honey production was up by about 35%.
-    - The number of bee colonies in Quebec was up by 6.5% with a corresponding increase in honey production.
+-	That:
+  - The largest volume of neonic use is in Western Canada as seed treatments and bee keepers there are not concerned by neonic use - the number of bee colonies in Western Canada is about five times greater than in Quebec and Ontario combined. 
+  - PMRA’s April 2019 final special review decisions on pollinators concluded that neonic seed treatments and use on greenhouse vegetables do not pose unacceptable risks to bees or other pollinators.
+  - According to 2019 Statistics Canada data, the trend for the number of colonies nationally has been steadily increasing for many years, despite extensive use of neonic pesticides.
+    - In Ontario there was a 10% decrease in the number of colonies with a corresponding decrease in honey production – there were 2504 commercial beekeepers.
+    - In Quebec, the number of colonies and honey production remained the same as the previous year – there were 440 commercial beekeepers.
 
 
 ## Regulatory efficiency
 
-September 2019     Quarterly
+January 2020     Annual
 
-- That regulatory reform is critical for agriculture to be a key player in the success of Canada's economy as outlined in the Economic Strategy Table reports.
-- That the promise to improve the sector's regulatory environment is a welcome development for Canadian agri-food firms, however, the government needs to implement direct action to showcase our safe, high-quality agri-food products to the world.
-- That all departments, specifically Health Canada, PMRA and CFIA, must move forward with measures that, while ensuring health and safety, support industry and its ability to grow, innovate and produce food for domestic consumption and export.
-- That we call for accountability, and action, to ensure the sector receives the support it needs to improve competitiveness.
+-	That regulatory reform is critical for agriculture to be a key player in the success of Canada’s economy as outlined in the Economic Strategy Table reports.  
+-	That the promise to improve the sector’s regulatory environment is a welcome development for Canadian agri-food firms, however, the government needs to implement direct action to showcase our safe, high-quality agri-food products to the world.
+-	That all departments, specifically Health Canada, PMRA and CFIA, must move forward with measures that, while ensuring health and safety, support industry and its ability to grow, innovate and produce food for domestic consumption and export. 
+-	That we call for accountability, and action, to ensure the sector receives the support it needs to improve competitiveness.           
 
 ## Urban pesticides
 
 September 2019     Annual
 
-- That urban pesticides protect public and private green spaces from insects, weeds and diseases.
-- That homeowners benefit from the control a wide range of pests, including: cockroaches, ants, spiders, silverfish, flies, mosquitoes, fleas, ticks and bed bugs, rats and mice.
-- That pest control products are also used in plastics, paints, and caulking to prevent mold, and in toilet bowl cleaners and disinfectants to protect health.
+-	That urban pesticides protect public and private green spaces from insects, weeds and diseases.
+-	That homeowners benefit from the control a wide range of pests, including: cockroaches, ants, spiders, silverfish, flies, mosquitoes, fleas, ticks and bed bugs, rats and mice.
+-	That pest control products are also used in plastics, paints, and caulking to prevent mold, and in toilet bowl cleaners and disinfectants to protect health.
+
 
 ## Mission and Values
 
@@ -286,8 +279,7 @@ Sustainability is meeting the needs of people, protecting the environment and bu
 **Sound Science** : We are steadfast in the use of scientific research and fact-based information as the foundation of our work.
 
 **CropLife Canada Key Goals 2019-2022**
-- Goal 1: Advocate for innovation, competitiveness and sustainability
-- Goal 2: Enhance the image and reputation of the plant science industry and its contributions with influencers and consumers
-- Goal 3: Be world leaders in lifecycle stewardship of plant science innovation
-- Goal 4: Broaden and enhance coalitions and alliances
-- Goal 5: Maximize impact and member value
+Goal 1: Advocate for innovation, competitiveness and sustainability 
+Goal 2: Enhance the image and reputation of the plant science industry and its contributions with influencers and consumers
+Goal 3: Be world leaders in lifecycle stewardship of plant science innovation
+Goal 4: Broaden and enhance coalitions and alliances
