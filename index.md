@@ -148,7 +148,6 @@ Staff Directive March 2020
 
 ## Defending modern pest control innovations
 
-
 January 2020    Annual 
 
 As seen with glyphosate in the United States and other jurisdictions, if left unchallenged, special interest group opinions may trump future risk-based regulatory decisions and could conceivably curtail any further public Government of Canada defense of the pesticide regulatory system and specific chemistries.
@@ -157,11 +156,11 @@ As seen with glyphosate in the United States and other jurisdictions, if left un
   - Plant science innovations are designed to optimize resource use for efficient food production;
   - Pesticides are designed to kill pests that threaten production; and
   - Both are carefully regulated to assure their safety to people, animals and the environment.
--	That CropLife Canada continue to advocate the proven benefits of modern agriculture and that the potential risks are identified, thoroughly studied and proactively mitigated by Health Canada and the PMRA.  Benefits include:
+- That CropLife Canada continue to advocate the proven benefits of modern agriculture and that the potential risks are identified, thoroughly studied and proactively mitigated by Health Canada and the PMRA.  Benefits include:
   - An affordable, high-quality varied diet of fruit, vegetables and grain;
   - A smaller agricultural carbon foot print (less fossil fuel use, carbon sequestration); and
   - Restoration and preservation of wildlife habitat.
--	That government decision makers acknowledge that the success of chemistry solutions is a prime target for funding by both genuinely curious researchers and those opposed to modern agriculture alike.
+- That government decision makers acknowledge that the success of chemistry solutions is a prime target for funding by both genuinely curious researchers and those opposed to modern agriculture alike.
   - The more studies there are, the more outlier results there also are which can be selectively used to prove a point, whether positive or negative.
 - That pest management plays a significant role in many aspects of the quality of life in Canada including:
   - Establishment and maintenance of lawns and gardens and public green spaces; and
@@ -279,7 +278,7 @@ Sustainability is meeting the needs of people, protecting the environment and bu
 **Sound Science** : We are steadfast in the use of scientific research and fact-based information as the foundation of our work.
 
 **CropLife Canada Key Goals 2019-2022**
-Goal 1: Advocate for innovation, competitiveness and sustainability 
-Goal 2: Enhance the image and reputation of the plant science industry and its contributions with influencers and consumers
-Goal 3: Be world leaders in lifecycle stewardship of plant science innovation
-Goal 4: Broaden and enhance coalitions and alliances
+- Goal 1: Advocate for innovation, competitiveness and sustainability.
+- Goal 2: Enhance the image and reputation of the plant science industry and its contributions with influencers and consumers.
+- Goal 3: Be world leaders in lifecycle stewardship of plant science innovation
+- Goal 4: Broaden and enhance coalitions and alliances
