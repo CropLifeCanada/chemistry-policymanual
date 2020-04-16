@@ -28,7 +28,7 @@ The date that appears after the issue title indicates when the policy, motion or
   - [Manage Resistance Now](#manage-resistance-now)
   - [Neonicotinoids and agriculture](#Neonicotinoids-and-agriculture)
   - [Plant Science Technologies: Helping Canada Grow](#plant-science-technologies-helping-canada-grow)
-  - [PMRA - cost recovery](#PMRA-cost-recovery)
+  - [PMRA - cost recovery](#PMRA---cost-recovery)
   - [Pollinators and neonicotinoids: Ontario and Quebec](#Pollinators-and-neonicotinoids-ontario-and-quebec)
   - [Regulatory Efficiency](#regulatory-efficiency)
   - [Urban pesticides](#urban-pesticides)
@@ -210,19 +210,19 @@ May 2019     Annual
 
 Staff Directive validated March 2020
 
--	That the following conditions need to be met before a conversation about cost re-recovery would be appropriate:
-  - Data protection issues (PPIP) resolved to industry satisfaction;
-  - Effective process improvements; and
-  - PMRA being sufficiently resourced to assure the workload can be completed within a reasonable period of time.
+That the following conditions need to be met before a conversation about cost re-recovery would be appropriate:
+ - Data protection issues (PPIP) resolved to industry satisfaction;
+ - Effective process improvements; and
+ - PMRA being sufficiently resourced to assure the workload can be completed within a reasonable period of time.
+  
+ That conditions for cost-recovery to be considered include:
+ - Clear data requirements;
+ - Clear transparent processes; and
+ - Strict adherence to time lines with meaningful recourse for missing them.
 
--	That conditions for cost-recovery to be considered include:
-  - Clear data requirements;
-  - Clear transparent processes; and
-  - Strict adherence to time lines with meaningful recourse for missing them.
 
 
-
-## Pollinators and neonics – Ontario and Quebec
+## Pollinators and neonicotinoids – Ontario and Quebec
 
 March 2020     Annual
 
