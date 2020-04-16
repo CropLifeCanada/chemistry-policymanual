@@ -29,7 +29,7 @@ The date that appears after the issue title indicates when the policy, motion or
   - [Neonicotinoids and agriculture](#Neonicotinoids-and-agriculture)
   - [Plant Science Technologies: Helping Canada Grow](#plant-science-technologies-helping-canada-grow)
   - [PMRA - cost recovery](#PMRA---cost-recovery)
-  - [Pollinators and neonicotinoids: Ontario and Quebec](#Pollinators-and-neonicotinoids-ontario-and-quebec)
+  - [Pollinators and neonicotinoids: Ontario and Quebec](#Pollinators-and-neonicotinoids---Ontario-and-Quebec)
   - [Regulatory Efficiency](#regulatory-efficiency)
   - [Urban pesticides](#urban-pesticides)
 - [CropLife Canada Mission and Values](#mission-and-values)
@@ -222,11 +222,11 @@ That the following conditions need to be met before a conversation about cost re
 
 
 
-## Pollinators and neonicotinoids – Ontario and Quebec
+## Pollinators and neonicotinoids - Ontario and Quebec
 
 March 2020     Annual
 
--	That:
+That:
   - The largest volume of neonic use is in Western Canada as seed treatments and bee keepers there are not concerned by neonic use - the number of bee colonies in Western Canada is about five times greater than in Quebec and Ontario combined. 
   - PMRA’s April 2019 final special review decisions on pollinators concluded that neonic seed treatments and use on greenhouse vegetables do not pose unacceptable risks to bees or other pollinators.
   - According to 2019 Statistics Canada data, the trend for the number of colonies nationally has been steadily increasing for many years, despite extensive use of neonic pesticides.
