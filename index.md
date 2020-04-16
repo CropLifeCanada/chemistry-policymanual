@@ -21,7 +21,7 @@ The date that appears after the issue title indicates when the policy, motion or
 - Other Issues
   - [CGC Market Acceptance Policy](#cgc-market-acceptance-policy)
   - [CropLife Canada support of CAAR](#croplife-canada-support-of-caar)
-  - [Certified Crop Science Consultant Program](#Certified-Crop-Science-Consultant-Program-CCSC-)
+  - [Certified Crop Science Consultant Program](#Certified-Crop-Science-Consultant-Program-CCSC)
   - [Defending modern pest control innovations](#defending-modern-pest-control-innovations)
   - [Drones: Label expansion](#drones-label-expansion)
   - [Fungicides: Pollinator health](#fungicides-pollinator-health-see-also-pollinators-and-neonics)
