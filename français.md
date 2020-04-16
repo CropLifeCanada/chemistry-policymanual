@@ -21,7 +21,7 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
 - Autres sujets
   - [Politique sur l’acceptation par le marché de la CCG](#politique-sur-lacceptation-par-le-marché-du-conseil-des-grains-du-canada-ccg)
   - [Soutien de CropLife Canada à la CAAR](#soutien-de-croplife-canada-à-lassociation-canadienne-des-détaillants-agricoles-caar)
-  - [Programme des conseillers certifiés en phytotechnie](#Programme-des-conseillers-certifiés-en- phytotechnie-CCP-)
+  - [Programme des conseillers certifiés en phytotechnie](#Programme-des-conseillers-certifiés-en-phytotechnie-CCP-)
   - [Défendre les innovations modernes en matière de lutte antiparasitaire](#défendre-les-innovations-modernes-en-matière-de-lutte-antiparasitaire)
   - [Drones : Ajout aux étiquettes](#drones--ajout-aux-étiquettes)
   - [Fongicides : Santé des pollinisateurs](#fongicides--santé-des-pollinisateurs-voir-aussi-pollinisateurs-et-néonics)
