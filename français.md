@@ -47,23 +47,19 @@ Soutien au Comité : [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgsta
 
 ## Calendrier des réunions 
 
-- 28 janvier 2020 – Calgary
-- 10 mars 2020 – téléconférence/webinaire
-- 26 mai 2020 – Journées printanières de dialogue, Ottawa
-- 14 juillet 2020 – téléconférence/webinaire
-- 3 septembre 2020 – Guelph
-- 3 décembre 2020 – Cultiver le Canada, Ottawa
+- 3 septembre 2020 – téléconférence/webinaire
+- 3 décembre 2020 – téléconférence/webinaire
 
 
 ## Limites maximales de résidus (LMR) et commerce 
 
-Mai 2019      Chaque année
+Juillet 2020            Chaque année
 
 - Que nous collaborions avec les gouvernements et les partenaires afin de créer les conditions qui permettent à la Chine de promulguer des règles de tolérance à l’importation transparentes, prévisibles et fondées sur les risques, sur la base des normes et directives internationales, reconnaissant que les LMR facilitent les échanges en assurant que les pesticides ont été appliqués conformément aux spécifications homologuées qui figurent sur l’étiquette et qu’elles ne sont pas des normes de sécurité alimentaire.  
 - Que nous collaborions avec les gouvernements et nos partenaires afin de contenir les approches européennes fondées sur les dangers et de défendre les décisions fondées sur les risques permettant aux agriculteurs de continuer à accéder aux outils et technologies modernes qui les maintiennent compétitifs aux niveaux national et mondial.
 - Que soit conservée la valeur par défaut actuelle (0,1 ppm) de la LMR fixée par le Canada pour la tolérance à l’importation.
 
-12 septembre 2018  Directive au personnel validée le 17 septembre 2019
+Directive au personnel validée le 17 septembre 2019   Chaque année
 
 Stratégie de la Chine
 
@@ -77,7 +73,7 @@ Union européenne (UE)
 
 ## Surveillance nationale des eaux de surface pour les pesticides
 
-Janvier 2020     Chaque trimestre
+Juillet 2020    Chaque trimestre
 
 -	Que nous nous engageons à protéger la santé humaine et l’environnement et à assurer la gestion responsable de nos produits.
 -	Que la portée d’un programme national de surveillance des eaux de surface soit de :
@@ -92,7 +88,7 @@ Que le CSCAR recommande des options d’actions pour faire progresser les intér
 
 ## Réforme des pesticides en Ontario – milieu urbain
 
-Janvier 2020     Chaque trimestre
+Juillet 2020     Chaque trimestre
 
 - Que le gouvernement de l’Ontario lève l’interdiction des pesticides dits « à des fins esthétiques », afin de rétablir des règles du jeu équitables pour les propriétaires de maison et les petits entrepreneurs de l’Ontario.
 - Que la clause 7.1 (5) actuelle (« Règlements municipaux sans effet ») reste en vigueur.
@@ -100,22 +96,26 @@ Janvier 2020     Chaque trimestre
 
 ## Examen législatif de la Loi sur les produits antiparasitaires (LPA) en 2020
 
-Janvier 2020    Chaque trimestre
+Juillet 2020    Chaque trimestre
 
 - Que la LPA reste adaptée à son objectif et ne devrait pas pouvoir être révisée en 2020.
 - Que les différends existants puissent être résolus sans que la Loi soit modifiée.
 
 ## Amélioration du processus de réévaluation de l’ARLA
 
-Mai 2019     Chaque année
+Juillet 2020     Chaque trimestr
 
 Les changements apportés par l’ARLA à son processus de réévaluation en 2016 ont abouti à des évaluations des risques incomplètes et à des décisions trop conservatrices qui restreignent inutilement les utilisations à haute valeur économique.
 
-- Que l’ARLA permette un dialogue technique à double sens significatif avec les intervenants avant le début et tout au long du processus de réévaluation.
-- Que des consultations publiques sur le projet d’évaluation des risques soient organisées séparément de la décision proposée, qui comprend des mesures proposées d’atténuation des risques.
+Bien que des détails importants sur certaines des propositions de renouvellement du programme 2020 de l’ARLA doivent encore être mis au point, que soient mises en œuvre immédiatement les nouvelles possibilités de dialogue bilatéral suivantes pour engager les intervenants à des étapes clés du processus de réévaluation :
+
+1. Avant le début du processus, pour déterminer les domaines d’intérêt règlementaire potentiel et les exigences en matière de données;
+2. Après le début du processus, au cours d’une étape plus approfondie de délimitation de la portée et de priorisation des risques; et
+3. Lors de l’examen, au stade du projet d’évaluation des risques.
+
 - Que le gouvernement du Canada reconnaisse officiellement le rôle économique que joue l’ARLA dans la facilitation ou l’interdiction d’accès des producteurs à des technologies innovantes en l’incluant dans son mandat et en allouant les ressources appropriées à ce travail.
 
-12 septembre 2018    Directive au personnel validée le 17 septembre 2019
+Directive au personnel validée le 17 septembre 2019   Chaque année
 
 - Le Comité a donné comme instruction au personnel de plaider en faveur d’un mandat économique/de croissance pour l’ARLA. 
 
@@ -129,9 +129,8 @@ Janvier 2020    Chaque année
 
 - Qu’une approche crédible de gestion responsable du cycle de vie des pesticides, dirigée par l’industrie, soit élaborée et mise en œuvre de manière collaborative. Que cette approche comprenne implicitement l’adhésion à des normes nationales supervisées par l’industrie afin de soutenir le respect des directives homologuées figurant sur les étiquettes de pesticides et d’assurer la santé et la sécurité des personnes et de l’environnement.
 
-Directive au personnel mise à jour en mars 2020 
+Directive au personnel mise à jour en mars 2020   Chaque année
 
--	Procéder de manière proactive à cette initiative même si l’ARLA ne considère pas ce sous-secteur comme une préoccupation majeure, car elle fera face à la survenance de problèmes supplémentaires par la surveillance nationale de l’eau dans l’avenir.
 - L’adhésion à une politique de non-expédition à l’échelle de l’industrie est la façon de garantir la conformité – tous les produits homologués en vertu de la LPA dont l’étiquette mentionne des applications en serre devraient être inclus. Un simple formulaire d’autorisation permettrait aux installations d’accéder aux produits pour des utilisations qui dépassent la portée de la phase 1. 
 - Bien que CLC finance le développement du programme en collaboration avec les producteurs, les coûts d’audit et de mise en œuvre devraient être payés directement par les installations auditées. 
 
@@ -140,7 +139,7 @@ Directive au personnel mise à jour en mars 2020
 
 _Cette politique menée par l’industrie s’efforce de ménager un juste équilibre entre la commercialisation de produits innovants et celle de nouveaux produits chimiques/destinés à un usage cultural. Cela doit se faire en assurant aux expéditeurs et aux producteurs que les exportations canadiennes ne sont pas exposées à des risques commerciaux inacceptables de rejet de cargaisons dans un port._
 
-Janvier 2020    Chaque trimestre
+Janvier 2020    Chaque année
 
 - Que la politique est un travail en cours auquel CropLife Canada et ses membres participent activement en vue d’une amélioration continue.
 
@@ -152,11 +151,11 @@ Résolution validée le 17 septembre 2019
 
 ## Programme des conseillers certifiés en phytotechnie (CCP)
 
-Mars 2019     Chaque année
+Mars 2020    Chaque année
 
 - Que le Programme de conseillers certifiés en phytotechnie continue d’apporter une valeur ajoutée aux membres.
 
-Mars 2020     Directive au personnel 
+Directive au personnel de mars 2020   Chaque année
 
 - Dans le cadre du prochain cycle d’examen, inviter les membres de CLC à désigner des représentants d’entreprises pour examiner/recommander du contenu supplémentaire pour le Programme des CCP.
 - Modifier le Code de conduite de CLC afin de garantir que le personnel qui formule des recommandations agronomiques possède, au minimum, une certification de CAC (conseiller agréé en cultures) ou de CCP.
@@ -187,7 +186,7 @@ _Comme on l’a vu avec le glyphosate aux États-Unis et ailleurs, si on ne l’
 
 ## Drones : Ajout aux étiquettes
 
-Directive au personnel validée le 17 septembre 2019
+Directive au personnel validée le 17 septembre 2019   Chaque année
 
 - La décision de procéder à un ajout à l’étiquette afin d’inclure l’application par drone incombe aux entreprises individuelles.
 
@@ -202,14 +201,14 @@ Janvier 2020    Chaque année
 
 ## Gérer la résistance maintenant
 
-Mai 2019     Chaque année
+Juillet 2020          Chaque année
 
 - Que la résistance aux technologies de la phytologie est un problème grave tant pour le secteur de la protection des cultures que pour le monde agricole en général et que le personnel de CropLife Canada s’engage à faire de la gestion de cette résistance une priorité absolue au sein de l’organisation.
 
 
 ## Néonicotinoïdes et agriculture
 
-Mars 2019     Chaque année
+Juillet 2020      Chaque année
 
 - Que les agriculteurs utilisent les néonicotinoïdes parce qu’ils sont sûrs et respectueux de l’environnement et qu’ils permettent une protection ciblée des cultures.
 - Comme seules de petites quantités sont nécessaires pour enrober les semences, les expositions humaines et environnementales sont réduites par rapport à d’autres types de technologies d’application. 
@@ -219,7 +218,7 @@ Mars 2019     Chaque année
 
 ## Technologies de la phytologie : Aider le Canada à croître
 
-Mai 2019     Chaque année
+Juillet 2020      Chaque année
 
 - Que les technologies de la phytologie aident à faire croître l’économie, à protéger l’environnement et à bâtir des collectivités plus robustes d’un bout à l’autre du Canada.
 - Que les pesticides et la biotechnologie végétale ont aidé à sauver plus de 35 millions d’acres de terres en habitat naturel et à protéger la biodiversité du Canada.
@@ -229,7 +228,7 @@ Mai 2019     Chaque année
 
 ## ARLA – recouvrement des coûts
 
-Directive au personnel validée en mars 2020
+Directive au personnel validée en mars 2020   Chaque année
 
 Que les conditions suivantes doivent être remplies avant qu’une conversation sur le recouvrement des coûts soit appropriée :
 - Problèmes de protection des données (PDPDPA, Protection des droits de propriété sur les données concernant les produits antiparasitaires) résolus à la satisfaction de l’industrie;
