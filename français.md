@@ -103,7 +103,7 @@ Juillet 2020    Chaque trimestre
 
 ## Amélioration du processus de réévaluation de l’ARLA
 
-Juillet 2020     Chaque trimestr
+Juillet 2020     Chaque trimestre
 
 Les changements apportés par l’ARLA à son processus de réévaluation en 2016 ont abouti à des évaluations des risques incomplètes et à des décisions trop conservatrices qui restreignent inutilement les utilisations à haute valeur économique.
 
