@@ -46,21 +46,18 @@ Committee Support: [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstall
 
 ## Meeting schedule
 
-- March 10, 2020 – Teleconference/webinar
-- May 26, 2020 – Spring Dialogue Days, Ottawa
-- July 14, 2020 – Teleconference/webinar
-- September 3, 2020 – Guelph
-- December 3, 2020 – GrowCanada Conference, Ottawa
+- September 3, 2020 – teleconference/webinar
+- December 3, 2020 – teleconference/webinar
 
 ## Maximum residue limits (MRLs) and trade
 
-May 2019      Annual
+July 2020      Annual
 
 - That we engage with governments and partners to create conditions that allow China to promulgate transparent, predictable, risk-based import tolerance regulations based on international standards and guidelines, recognizing that MRLs facilitate trade by verifying that pesticides have been applied according to registered label specifications and that they are not food safety standards.
 - That we engage with governments and our partners to contain Europe's hazard-based approaches and defend risk-based decisions that allow farmers to continue to access modern tools and technologies that keep them competitive domestically and globally.
 - That Canada’s current 0.1ppm import tolerance MRL default be retained.
 
-Staff Directive, validated September 17, 2019
+Staff Directive, validated September 17, 2019   Annual
 
 China Strategy
 
@@ -71,7 +68,7 @@ European Union
 
 ## National surface water monitoring for pesticides
 
-January 2020     Quarterly
+July 2020     Quarterly
 
 - That we are committed to the safeguarding of human health and the environment and proper stewardship of our products.  
 - That the scope of a national surface water monitoring program be to:
@@ -80,7 +77,7 @@ January 2020     Quarterly
 
 ## Ontario pesticide reform - urban
 
-January 2020     Quarterly
+July 2020     Quarterly
 
 - That the Government of Ontario lift the so-called "cosmetic" pesticide ban to instead return to a level playing field for Ontario homeowners and small business people.
 - That the current “bylaw inoperative” clause (7.1(5) remain in effect. 
@@ -88,22 +85,26 @@ January 2020     Quarterly
 
 ## PCPA legislative review 2020
 
-January 2020     Quarterly
+July 2020     Quarterly
 
 - That the PCPA remains fit for purpose and should not be opened for review in 2020.
 - That existing irritants can be addressed without opening up the Act.
 
 ## PMRA re-evaluation process improvement
 
-May 2019     Annual
+July 2020     Quarterly
 
 The changes PMRA made to its re-evaluation process in 2016 have resulted in incomplete risk assessments and overly conservative decisions that unnecessarily restrict uses of high economic value.
 
--	That PMRA allow meaningful two-way technical dialogue with stakeholders prior to initiation and throughout the re-evaluation process.
--	That public consultations be sought on the draft risk assessment separately from the proposed decision that includes proposed risk mitigation measures.
+While significant details on some of PMRA's 2020 program renewal proposals still need to be worked out, that the following new two-way dialogue opportunities to engage with stakeholders at key milestones in the re-evaluation process be implemented immediately:
+
+1. Prior to initiation to identify areas of potential regulatory interest and data requirements;
+2. After initiation during a deeper scoping and risk prioritization step; and
+3. During the review at the draft risk assessment phase.
+
 -	That the Government of Canada formally acknowledge the economic role PMRA plays in facilitating or inhibiting grower access to innovative technologies by including this in its mandate and by allocating the appropriate resources for this work.
 
-Staff Directive validated September 17, 2019
+Staff Directive validated September 17, 2019    Annual
 
 -	The Committee directed staff to advocate for an economic/growth mandate for PMRA.
 
@@ -115,7 +116,7 @@ January 2020     Annual
 
 -	That a credible industry-led pesticide lifecycle stewardship approach be collaboratively constructed and implemented that includes adherence to national standards that are within industry control to support compliance with registered pesticide label directions and ensure the health and safety of people and the environment. 
 
-Staff Directive updated March 2020
+Staff Directive updated March 2020    Annual
 
 -	Adherence to an industry-wide no-ship policy is how compliance would be ensured – all PCPA-registered products with label statements for greenhouse applications should be included.  A simple waiver form would allow facilities to access product for uses that are beyond the scope of Phase 1. 
 -	While CLC is funding development of the program in collaboration with growers, audit and implementation costs should be paid directly by the audited facilities.
@@ -124,7 +125,7 @@ Staff Directive updated March 2020
 
 _This industry-led policy strives to provide an appropriate balance between enabling the commercialization of innovative and new chemistry/crop use products, while assuring shippers and growers that Canadian exports are not exposed to unacceptable trade risks of shipments being rejected at port._
 
-January 2020    Quarterly
+January 2020    Annual
 
 -	That the policy is a work in progress in which CropLife Canada and its members are actively participating in with a view to continuous improvement. 
 
@@ -136,11 +137,11 @@ Motion validated September 17, 2019
 
 ## Certified Crop Science Consultant Program (CCSC)
 
-March 2019     Annual
+March 2020     Annual
 
 -	That the Certified Crop Science Consultant Program continues to provide value to members.
 
-Staff Directive March 2020
+Staff Directive March 2020    Annaul
 
 -	As part of the next review cycle, invite CLC members to identify company representatives to review/recommend additional content for the CCSC program.
 -	Amend the CLC Code of Conduct to ensure staff making agronomic recommendations have, at a minimum, either CCA and/or CCSC certification.
@@ -168,7 +169,7 @@ As seen with glyphosate in the United States and other jurisdictions, if left un
 
 ## Drones: Label expansion
 
-Staff Directive validated September 17, 2019
+Staff Directive validated September 17, 2019    Annual
 
 -	The decision to proceed with a label expansion to include drone application resides with individual companies.
 
@@ -182,13 +183,13 @@ January 2020    Annual
 
 ## Manage Resistance Now
 
-May 2019     Annual
+July 2020     Annual
 
 - That resistance to plant science technologies is a serious issue for both the crop protection industry and the broader agricultural community and that CropLife Canada staff be committed to make resistance management a high priority in the organization.
 
 ## Neonicotinoids and agriculture
 
-March 2019     Annual
+July 2020     Annual
 
 -	That farmers use neonicotinoids because they are safe, environmentally friendly and provide targeted crop protection. 
   - Since only small quantities are needed to coat the seed, human and environmental exposures are reduced relative to other types of application technology. 
@@ -198,7 +199,7 @@ March 2019     Annual
 
 ## Plant Science Technologies: Helping Canada Grow
 
-May 2019     Annual
+July 2020     Annual
 
 - That plant science technologies are helping grow the economy, protect the environment and build stronger communities across Canada.
 - That pesticides and plant biotechnology help save more than 35 million acres of natural land and protect Canada's biodiversity.
@@ -207,7 +208,7 @@ May 2019     Annual
 
 ## PMRA - cost recovery
 
-Staff Directive validated March 2020
+Staff Directive validated March 2020    Annual
 
 That the following conditions need to be met before a conversation about cost re-recovery would be appropriate:
  - Data protection issues (PPIP) resolved to industry satisfaction;
