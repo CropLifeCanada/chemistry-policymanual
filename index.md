@@ -154,9 +154,9 @@ January 2020    Annual
 As seen with glyphosate in the United States and other jurisdictions, if left unchallenged, special interest group opinions may trump future risk-based regulatory decisions and could conceivably curtail any further public Government of Canada defense of the pesticide regulatory system and specific chemistries.
 
 -	That CropLife Canada work to increase decision makers’ understanding and appreciation of the complexity of the systems used to produce the food we eat, its quality, affordability and other benefits including:
-  - Plant science innovations are designed to optimize resource use for efficient food production;
-  - Pesticides are designed to kill pests that threaten production; and
-  - Both are carefully regulated to assure their safety to people, animals and the environment.
+    - Plant science innovations are designed to optimize resource use for efficient food production;
+    - Pesticides are designed to kill pests that threaten production; and
+    - Both are carefully regulated to assure their safety to people, animals and the environment.
 - That CropLife Canada continue to advocate the proven benefits of modern agriculture and that the potential risks are identified, thoroughly studied and proactively mitigated by Health Canada and the PMRA.  Benefits include:
   - An affordable, high-quality varied diet of fruit, vegetables and grain;
   - A smaller agricultural carbon foot print (less fossil fuel use, carbon sequestration); and
