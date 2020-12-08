@@ -39,7 +39,7 @@ The date that appears after the issue title indicates when the policy, motion or
 
 Mandate: Based on the goals identified in CropLife Canada's strategic plan, the Chemistry Committee provides strategic oversight, direction and alignment to the activities of the Chemistry Science and Regulatory Committee (CSRC), the Joint Urban/Non-Ag Committee (CropLife Canada/Fertilizer Canada) and the Resistance Management Committee in collaboration with government affairs and communications, to achieve the desired outcomes for issues and member interests concerning pest control products used in agriculture, urban/non-agricultural and public health settings.
 
-Chair: [Darren Dillenbeck](mailto:darren.dillenbeck@fmc.com?subject=Chemistry%20Committee) mobile 1-430-02-4886)
+Chair: [Darren Dillenbeck](mailto:darren.dillenbeck@fmc.com?subject=Chemistry%20Committee) mobile 1-430-02-4886
 
 Secretary: [Alan Schlachter](mailto:schlachtera@croplife.ca?subject=Chemistry%20Committee) 613-230-9881 ext. 3225 (mobile 343-997-1869)
 
