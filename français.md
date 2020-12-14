@@ -14,7 +14,7 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
   - [Limites maximales de résidus (LMR) et commerce](#limites-maximales-de-résidus-lmr-et-commerce)
   - [Surveillance nationale des eaux de surface pour les pesticides](#surveillance-nationale-des-eaux-de-surface-pour-les-pesticides)
   - [Réforme des pesticides en Ontario – milieu urbain](#réforme-des-pesticides-en-ontario--milieu-urbain)
-  - [Examen législatif de la LPA en 2020](#examen-législatif-de-la-loi-sur-les-produits-antiparasitaires-lpa-en-2020)
+  - [Examen législatif de la LPA](#examen-législatif-de-la-loi-sur-les-produits-antiparasitaires-lpa)
   - [Amélioration du processus de réévaluation de l’ARLA](#amélioration-du-processus-de-réévaluation-de-larla)
   - [Gestion responsable de l’agriculture protégée](#gestion-responsable-de-lagriculture-protégée)
  
@@ -23,7 +23,8 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
   - [Soutien de CropLife Canada à la CAAR](#soutien-de-croplife-canada-à-lassociation-canadienne-des-détaillants-agricoles-caar)
   - [Programme des conseillers certifiés en phytotechnie](#Programme-des-conseillers-certifiés-en-phytotechnie-CCP)
   - [Défendre les innovations modernes en matière de lutte antiparasitaire](#défendre-les-innovations-modernes-en-matière-de-lutte-antiparasitaire)
-  - [Drones : Ajout aux étiquettes](#drones--ajout-aux-étiquettes)
+  - [Drones : Exigences règlementaires canadiennes](#drones--Exigences-règlementaires-canadiennes)
+  - [Biopesticides et biostimulants](#Biopesticides-et-biostimulants)
   - [Fongicides : Santé des pollinisateurs](#fongicides--santé-des-pollinisateurs-voir-aussi-pollinisateurs-et-néonics)
   - [Gérer la résistance maintenant](#gérer-la-résistance-maintenant)
   - [Néonicotinoïdes et agriculture](#Néonicotinoïdes-et-agriculture)
@@ -31,6 +32,7 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
   - [ARLA – recouvrement des coûts](#ARLA--recouvrement-des-coûts)
   - [Pollinisateurs et néonics : Ontario et Québec](#Pollinisateurs-et-néonics--Ontario-et-Québec)
   - [Efficience de la règlementation](#Efficience-de-la-règlementation)
+  - [Politique sur les mélanges en cuve](#Politique-sur-les-mélanges-en-cuve)
   - [Pesticides en milieu urbain](#pesticides-en-milieu-urbain)
   
 - [CropLife Canada : Vision, mandat et valeurs](#vision-mandat-et-valeurs)
@@ -39,17 +41,19 @@ La date qui apparaît après le titre du sujet indique le moment où la politiqu
 
 Mandat : Sur la base des objectifs définis dans le plan stratégiquepriorités  de CropLife Canada, le Comité de chimie assurer la surveillance stratégique, la direction et l’harmonisation des activités du Comité de la science chimique et des affaires règlementaires (CSCAR), du Comité mixte urbain/non agricole (CropLife Canada/Fertilisants Canada) et du Comité de gestion de la résistance, en collaboration avec lesavec le soutien des  affaires gouvernementales et ldes communications, afin d’obtenir les résultats souhaités sur lespour les sujets et les intérêts définis par le Comité de chimiedes membres concernant les produits antiparasitaires utilisés à des fins agricoles, urbaines/non agricoles et de santé publique.
 
-Président : [Craig Brekkas](mailto:Craig%20Brekkas%20%3ccraig.brekkas@arysta.com%3e?subject=Chemistry%20Committee) 1-720-550-6329 (mobile 1-720-625-2997)
+Président : [Darren Dillenbeck](mailto:darren.dillenbeck@fmc.com?subject=Chemistry%20Committee) mobile 1-430-02-4886
 
-Secrétaire : [Alan Schlachter](mailto:Alan%20Schlachter%20%3cschlachtera@croplife.ca%3e?subject=Chemistry%20Committee) 613-230-9881 ext. 3225 (mobile 343-997-1869)
+Secrétaire : [Alan Schlachter](mailto:schlachtera@croplife.ca?subject=Chemistry%20Committee) 613-230-9881 ext. 3225 (mobile 343-997-1869)
 
 Soutien au Comité : [Linda Burgstaller](mailto:Linda%20Burgstaller%20%3cburgstallerl@croplife.ca%3e?subject=Chemistry%20Committee)  613-230-9881 ext. 3221
 
 ## Calendrier des réunions 
 
-- 3 septembre 2020 – téléconférence/webinaire
-- 3 décembre 2020 – téléconférence/webinaire
-
+- 27 janvier 2021
+- 10 avril 2021
+- 22 juin 2021
+- 1 septembre 2021
+- 16 novembre 2021
 
 ## Limites maximales de résidus (LMR) et commerce 
 
@@ -73,17 +77,12 @@ Union européenne (UE)
 
 ## Surveillance nationale des eaux de surface pour les pesticides
 
-Juillet 2020    Chaque trimestre
+Novembre 2020    Chaque trimestre
 
 -	Que nous nous engageons à protéger la santé humaine et l’environnement et à assurer la gestion responsable de nos produits.
 -	Que la portée d’un programme national de surveillance des eaux de surface soit de :
   - Soutenir les initiatives de gestion responsable menées par les intervenants pour prévenir les niveaux inacceptables de pesticides dans les eaux de surface; et
   - Codévelopper et consolider les études nationales de surveillance des eaux de surface afin de recueillir de manière fiable des données solides et normalisées pouvant être utilisées pour l’analyse des tendances et pour affiner en toute confiance les évaluations des risques postcommercialisation
-
-
-17 septembre 2019     Directive au personnel
-
-Que le CSCAR recommande des options d’actions pour faire progresser les intérêts des membres, lesquelles pourraient inclure une proposition de projet-pilote presque finale, avec des jalons et des détails de financement, pour examen par le Comité de chimie lors de sa réunion du 28 janvier 2020 à Calgary.
 
 
 ## Réforme des pesticides en Ontario – milieu urbain
@@ -94,16 +93,16 @@ Juillet 2020     Chaque trimestre
 - Que la clause 7.1 (5) actuelle (« Règlements municipaux sans effet ») reste en vigueur.
 - Que nous ne soutenons pas la création d’une nouvelle classe de pesticides accordant un monopole en matière d’application aux opérateurs antiparasitaires agréés, au détriment des propriétaires de maison.
 
-## Examen législatif de la Loi sur les produits antiparasitaires (LPA) en 2020
+## Examen législatif de la Loi sur les produits antiparasitaires (LPA)
 
-Juillet 2020    Chaque trimestre
+Novembre 2020    Chaque trimestre
 
 - Que la LPA reste adaptée à son objectif et ne devrait pas pouvoir être révisée en 2020.
 - Que les différends existants puissent être résolus sans que la Loi soit modifiée.
 
 ## Amélioration du processus de réévaluation de l’ARLA
 
-Juillet 2020     Chaque trimestre
+Novembre 2020     Chaque trimestre
 
 Les changements apportés par l’ARLA à son processus de réévaluation en 2016 ont abouti à des évaluations des risques incomplètes et à des décisions trop conservatrices qui restreignent inutilement les utilisations à haute valeur économique.
 
@@ -115,7 +114,7 @@ Bien que des détails importants sur certaines des propositions de renouvellemen
 
 - Que le gouvernement du Canada reconnaisse officiellement le rôle économique que joue l’ARLA dans la facilitation ou l’interdiction d’accès des producteurs à des technologies innovantes en l’incluant dans son mandat et en allouant les ressources appropriées à ce travail.
 
-Directive au personnel validée le 17 septembre 2019   Chaque année
+Directive au personnel validée le 19 novembre 2020   Chaque année
 
 - Le Comité a donné comme instruction au personnel de plaider en faveur d’un mandat économique/de croissance pour l’ARLA. 
 
@@ -129,7 +128,7 @@ Janvier 2020    Chaque année
 
 - Qu’une approche crédible de gestion responsable du cycle de vie des pesticides, dirigée par l’industrie, soit élaborée et mise en œuvre de manière collaborative. Que cette approche comprenne implicitement l’adhésion à des normes nationales supervisées par l’industrie afin de soutenir le respect des directives homologuées figurant sur les étiquettes de pesticides et d’assurer la santé et la sécurité des personnes et de l’environnement.
 
-Directive au personnel mise à jour en mars 2020   Chaque année
+Directive au personnel mise à jour le 10 mars 2020   Chaque année
 
 - L’adhésion à une politique de non-expédition à l’échelle de l’industrie est la façon de garantir la conformité – tous les produits homologués en vertu de la LPA dont l’étiquette mentionne des applications en serre devraient être inclus. Un simple formulaire d’autorisation permettrait aux installations d’accéder aux produits pour des utilisations qui dépassent la portée de la phase 1. 
 - Bien que CLC finance le développement du programme en collaboration avec les producteurs, les coûts d’audit et de mise en œuvre devraient être payés directement par les installations auditées. 
@@ -145,7 +144,7 @@ Janvier 2020    Chaque année
 
 ## Soutien de CropLife Canada à l’Association canadienne des détaillants agricoles (CAAR)
 
-Résolution validée le 17 septembre 2019
+Résolution validée novembre 2020
 
 - Résolution : Que le soutien à la CAAR soit laissé à la discrétion de chaque entreprise, que la représentation de CropLife Canada au conseil de la CAAR ne semble pas nécessaire pour le moment et que CropLife Canada soutienne plutôt le conseil de la CAAR lorsqu’elle est en phase avec les priorités de CropLife Canada.
 
@@ -155,7 +154,7 @@ Mars 2020    Chaque année
 
 - Que le Programme de conseillers certifiés en phytotechnie continue d’apporter une valeur ajoutée aux membres.
 
-Directive au personnel de mars 2020   Chaque année
+Directive au personnel le 10 mars 2020   Chaque année
 
 - Dans le cadre du prochain cycle d’examen, inviter les membres de CLC à désigner des représentants d’entreprises pour examiner/recommander du contenu supplémentaire pour le Programme des CCP.
 - Modifier le Code de conduite de CLC afin de garantir que le personnel qui formule des recommandations agronomiques possède, au minimum, une certification de CAC (conseiller agréé en cultures) ou de CCP.
@@ -184,11 +183,18 @@ _Comme on l’a vu avec le glyphosate aux États-Unis et ailleurs, si on ne l’
   - la santé publique (lutte contre les moustiques, coquerelles, punaises de lit, poux, tiques, rongeurs et autres vecteurs de maladies).
 
 
-## Drones : Ajout aux étiquettes
+## Drones : Exigences règlementaires canadiennes
 
-Directive au personnel validée le 17 septembre 2019   Chaque année
+Novembre 2020   Chaque année
 
-- La décision de procéder à un ajout à l’étiquette afin d’inclure l’application par drone incombe aux entreprises individuelles.
+- Que la technologie des drones offre la possibilité de faire progresser nos intérêts collectifs en matière d’agriculture de précision, de gestion responsable et de durabilité de nos technologies.
+
+## Biopesticides et biostimulants 
+
+Directive au personnel du 19 novembre 2020    Chaque année
+ 
+- Explorer de manière ciblée le paysage règlementaire des biopesticides et des biostimulants au Canada, notamment : en créant un groupe de travail du CSCAR chargé de définir les intérêts actuels, de parvenir à un consensus sur leur priorisation et de formuler des recommandations sur la meilleure façon de les faire progresser; en faisant participer le personnel à un petit nombre de conférences nord-américaines sur les produits biologiques; et en assurant la liaison avec le Fertilizer & Supplements Advisory Committee (FSAC) et la Biological Products Industry Alliance (BPIA).
+
 
 ## Fongicides : Santé des pollinisateurs (voir aussi Pollinisateurs et néonics)
 
@@ -261,11 +267,16 @@ Janvier 2020     Chaque année
 - Que tous les ministères et départements, plus particulièrement Santé Canada, l’ARLA et l’ACIA, doivent aller de l’avant avec des mesures qui, tout en garantissant la santé et la sécurité, aident l’industrie à se développer, à innover et à produire des aliments destinés à la consommation intérieure et à l’exportation. 
 - Que nous en appelons à la responsabilité et à l’action pour faire en sorte que le secteur reçoive le soutien dont il a besoin pour améliorer sa compétitivité.
 
+## Politique sur les mélanges en cuve
 
+Novembre 2020     Chaque trimestre
+ 
+- Que les politiques actuelles de l’ARLA autorisant les mélanges en cuve non affichés sur les étiquettes sont sûres et devraient rester en place pour assurer la souplesse en matière de protection des cultures et l’efficacité des applications.
+- Si une clarification juridique de ce que signifie « suivre l’étiquette » est nécessaire, que cette question soit traitée en modifiant la LPA et non en créant inutilement une incertitude sur le marché et en réduisant la compétitivité des producteurs par rapport à leurs homologues états-uniens, sans avantage supplémentaire sur les plans de la protection de la santé humaine et de l’environnement pour les Canadiens.
 
 ## Pesticides en milieu urbain
 
-Mai 2019     Chaque année
+Novembre 2020     Chaque année
 
 - Que les pesticides employés en milieu urbain protègent les espaces verts publics et privés des insectes, des mauvaises herbes et des maladies.
 - Que les propriétaires d’habitations bénéficient de la lutte contre un large éventail de parasites, y compris : coquerelles, fourmis, araignées, lépismes argentés, mouches, moustiques, puces, tiques et punaises de lit, rats et souris.
