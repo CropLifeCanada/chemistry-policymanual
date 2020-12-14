@@ -24,6 +24,7 @@ The date that appears after the issue title indicates when the policy, motion or
   - [Certified Crop Science Consultant Program](#Certified-Crop-Science-Consultant-Program-CCSC)
   - [Defending modern pest control innovations](#defending-modern-pest-control-innovations)
   - [Drones: Canadian regulatory requirements](#drones-canadian-regulatory-requirements)
+  - [Biopesticides and biostimulants](#biopesticides-and-biostimulants)
   - [Fungicides: Pollinator health](#fungicides-pollinator-health-see-also-pollinators-and-neonics)
   - [Manage Resistance Now](#manage-resistance-now)
   - [Neonicotinoids and agriculture](#Neonicotinoids-and-agriculture)
@@ -175,6 +176,8 @@ As seen with glyphosate in the United States and other jurisdictions, if left un
 November 2020    Annual
 
 - That drone technology presents an opportunity to advance our collective interests in precision agriculture, stewardship and the sustainability of our technologies. 
+
+## Biopesticides and biostimulants
 
 Staff Directive November 19, 2020    Annual
 
